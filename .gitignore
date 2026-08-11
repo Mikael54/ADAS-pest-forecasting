@@ -1,0 +1,15 @@
+.claude/settings.local.json
+.venv/
+__pycache__/
+*.pyc
+experiments/era5_fetch.log
+experiments/chosen_cfg.json
+data_external/_era5_cache/
+.DS_Store
+
+# Third-party source PDFs: re-downloadable via experiments/fetch_ukcpvs.py.
+# The small derived table (ukcpvs_virulence*.csv) IS committed, since that is
+# the actual model input and keeps the analysis reproducible without
+# redistributing 20 MB of AHDB publications.
+data_external/ukcpvs/
+experiments/tabpfn_run.log

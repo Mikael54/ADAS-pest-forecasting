@@ -1,0 +1,169 @@
+Year,Region,target,value
+2005,East,L1_Yellow_rust_Disease_Severity,0.0029583436
+2005,East Midlands,L1_Yellow_rust_Disease_Severity,0.0045668036
+2005,North East,L1_Yellow_rust_Disease_Severity,0.0051392177
+2005,North West,L1_Yellow_rust_Disease_Severity,0.0038752186
+2005,South East,L1_Yellow_rust_Disease_Severity,0.0015399524
+2005,South West,L1_Yellow_rust_Disease_Severity,0.002117886
+2005,West Midlands,L1_Yellow_rust_Disease_Severity,0.0033149922
+2005,Yorkshire and The Humber,L1_Yellow_rust_Disease_Severity,0.004531239
+2006,East,L1_Yellow_rust_Disease_Severity,0.0015604731
+2006,East Midlands,L1_Yellow_rust_Disease_Severity,0.001891896
+2006,North East,L1_Yellow_rust_Disease_Severity,0.0016588478
+2006,North West,L1_Yellow_rust_Disease_Severity,0.0016660797
+2006,South East,L1_Yellow_rust_Disease_Severity,0.0019366518
+2006,South West,L1_Yellow_rust_Disease_Severity,0.0018141052
+2006,West Midlands,L1_Yellow_rust_Disease_Severity,0.0014094302
+2006,Yorkshire and The Humber,L1_Yellow_rust_Disease_Severity,0.0022837645
+2007,East,L1_Yellow_rust_Disease_Severity,0.03964954
+2007,East Midlands,L1_Yellow_rust_Disease_Severity,0.043654658
+2007,North East,L1_Yellow_rust_Disease_Severity,0.043277267
+2007,North West,L1_Yellow_rust_Disease_Severity,0.02335741
+2007,South East,L1_Yellow_rust_Disease_Severity,0.03855007
+2007,South West,L1_Yellow_rust_Disease_Severity,0.04462664
+2007,Wales,L1_Yellow_rust_Disease_Severity,0.032480653
+2007,West Midlands,L1_Yellow_rust_Disease_Severity,0.03571268
+2007,Yorkshire and The Humber,L1_Yellow_rust_Disease_Severity,0.043159693
+2008,East,L1_Yellow_rust_Disease_Severity,0.011186586
+2008,East Midlands,L1_Yellow_rust_Disease_Severity,0.009264652
+2008,North East,L1_Yellow_rust_Disease_Severity,0.0070578563
+2008,North West,L1_Yellow_rust_Disease_Severity,0.0066318116
+2008,South East,L1_Yellow_rust_Disease_Severity,0.0089192055
+2008,South West,L1_Yellow_rust_Disease_Severity,0.0075527984
+2008,West Midlands,L1_Yellow_rust_Disease_Severity,0.008629761
+2008,Yorkshire and The Humber,L1_Yellow_rust_Disease_Severity,0.008802734
+2009,East,L1_Yellow_rust_Disease_Severity,0.008214486
+2009,East Midlands,L1_Yellow_rust_Disease_Severity,0.005326086
+2009,North East,L1_Yellow_rust_Disease_Severity,0.0053624487
+2009,North West,L1_Yellow_rust_Disease_Severity,0.0031432235
+2009,South East,L1_Yellow_rust_Disease_Severity,0.0044312705
+2009,South West,L1_Yellow_rust_Disease_Severity,0.003881808
+2009,West Midlands,L1_Yellow_rust_Disease_Severity,0.004664064
+2009,Yorkshire and The Humber,L1_Yellow_rust_Disease_Severity,0.0073422072
+2010,East,L1_Yellow_rust_Disease_Severity,0.0036611622
+2010,East Midlands,L1_Yellow_rust_Disease_Severity,0.0035533595
+2010,North East,L1_Yellow_rust_Disease_Severity,0.0033943765
+2010,North West,L1_Yellow_rust_Disease_Severity,0.0037964745
+2010,South East,L1_Yellow_rust_Disease_Severity,0.006224451
+2010,South West,L1_Yellow_rust_Disease_Severity,0.0039824536
+2010,Wales,L1_Yellow_rust_Disease_Severity,0.0035130098
+2010,West Midlands,L1_Yellow_rust_Disease_Severity,0.003733926
+2010,Yorkshire and The Humber,L1_Yellow_rust_Disease_Severity,0.0042348932
+2011,East,L1_Yellow_rust_Disease_Severity,0.009605385
+2011,East Midlands,L1_Yellow_rust_Disease_Severity,0.0106001515
+2011,North East,L1_Yellow_rust_Disease_Severity,0.00801435
+2011,North West,L1_Yellow_rust_Disease_Severity,0.00543727
+2011,South East,L1_Yellow_rust_Disease_Severity,0.011063049
+2011,South West,L1_Yellow_rust_Disease_Severity,0.011616325
+2011,West Midlands,L1_Yellow_rust_Disease_Severity,0.0085429745
+2011,Yorkshire and The Humber,L1_Yellow_rust_Disease_Severity,0.0074274074
+2012,East,L1_Yellow_rust_Disease_Severity,0.00900734
+2012,East Midlands,L1_Yellow_rust_Disease_Severity,0.00887735
+2012,North East,L1_Yellow_rust_Disease_Severity,0.008014776
+2012,North West,L1_Yellow_rust_Disease_Severity,0.0070263324
+2012,South East,L1_Yellow_rust_Disease_Severity,0.0073808846
+2012,South West,L1_Yellow_rust_Disease_Severity,0.0068418244
+2012,Wales,L1_Yellow_rust_Disease_Severity,0.006608448
+2012,West Midlands,L1_Yellow_rust_Disease_Severity,0.00784872
+2012,Yorkshire and The Humber,L1_Yellow_rust_Disease_Severity,0.00847939
+2013,East,L1_Yellow_rust_Disease_Severity,0.011643788
+2013,East Midlands,L1_Yellow_rust_Disease_Severity,0.010374859
+2013,North East,L1_Yellow_rust_Disease_Severity,0.008668776
+2013,North West,L1_Yellow_rust_Disease_Severity,0.008451965
+2013,South East,L1_Yellow_rust_Disease_Severity,0.00930804
+2013,South West,L1_Yellow_rust_Disease_Severity,0.008864686
+2013,West Midlands,L1_Yellow_rust_Disease_Severity,0.009173773
+2013,Yorkshire and The Humber,L1_Yellow_rust_Disease_Severity,0.008938654
+2014,East,L1_Yellow_rust_Disease_Severity,0.010739291
+2014,East Midlands,L1_Yellow_rust_Disease_Severity,0.009709504
+2014,North East,L1_Yellow_rust_Disease_Severity,0.009692661
+2014,North West,L1_Yellow_rust_Disease_Severity,0.008345686
+2014,South East,L1_Yellow_rust_Disease_Severity,0.008881173
+2014,South West,L1_Yellow_rust_Disease_Severity,0.008419519
+2014,West Midlands,L1_Yellow_rust_Disease_Severity,0.00891831
+2014,Yorkshire and The Humber,L1_Yellow_rust_Disease_Severity,0.009878796
+2015,East,L1_Yellow_rust_Disease_Severity,0.0038717259
+2015,East Midlands,L1_Yellow_rust_Disease_Severity,0.0035998398
+2015,North East,L1_Yellow_rust_Disease_Severity,0.0032933084
+2015,North West,L1_Yellow_rust_Disease_Severity,0.0035302355
+2015,South East,L1_Yellow_rust_Disease_Severity,0.0032866432
+2015,South West,L1_Yellow_rust_Disease_Severity,0.0035885638
+2015,West Midlands,L1_Yellow_rust_Disease_Severity,0.0031615328
+2015,Yorkshire and The Humber,L1_Yellow_rust_Disease_Severity,0.0035399876
+2016,East,L1_Yellow_rust_Disease_Severity,0.00684827
+2016,East Midlands,L1_Yellow_rust_Disease_Severity,0.005162432
+2016,North East,L1_Yellow_rust_Disease_Severity,0.004555171
+2016,North West,L1_Yellow_rust_Disease_Severity,0.0034913486
+2016,South East,L1_Yellow_rust_Disease_Severity,0.0050762948
+2016,South West,L1_Yellow_rust_Disease_Severity,0.0039172494
+2016,West Midlands,L1_Yellow_rust_Disease_Severity,0.0047962116
+2016,Yorkshire and The Humber,L1_Yellow_rust_Disease_Severity,0.0047558276
+2017,East,L1_Yellow_rust_Disease_Severity,0.011434615
+2017,East Midlands,L1_Yellow_rust_Disease_Severity,0.0061670803
+2017,North East,L1_Yellow_rust_Disease_Severity,0.0054268213
+2017,North West,L1_Yellow_rust_Disease_Severity,0.004810945
+2017,South East,L1_Yellow_rust_Disease_Severity,0.011303866
+2017,South West,L1_Yellow_rust_Disease_Severity,0.005183007
+2017,West Midlands,L1_Yellow_rust_Disease_Severity,0.0057070134
+2017,Yorkshire and The Humber,L1_Yellow_rust_Disease_Severity,0.0057723545
+2018,East,L1_Yellow_rust_Disease_Severity,0.0077575706
+2018,East Midlands,L1_Yellow_rust_Disease_Severity,0.007805613
+2018,North East,L1_Yellow_rust_Disease_Severity,0.0066596903
+2018,North West,L1_Yellow_rust_Disease_Severity,0.0059191445
+2018,South East,L1_Yellow_rust_Disease_Severity,0.006825274
+2018,South West,L1_Yellow_rust_Disease_Severity,0.0069078403
+2018,West Midlands,L1_Yellow_rust_Disease_Severity,0.007323744
+2018,Yorkshire and The Humber,L1_Yellow_rust_Disease_Severity,0.0068130204
+2019,East,L1_Yellow_rust_Disease_Severity,0.0051670773
+2019,East Midlands,L1_Yellow_rust_Disease_Severity,0.0060468772
+2019,North East,L1_Yellow_rust_Disease_Severity,0.0052190656
+2019,North West,L1_Yellow_rust_Disease_Severity,0.005949257
+2019,South East,L1_Yellow_rust_Disease_Severity,0.0049126125
+2019,South West,L1_Yellow_rust_Disease_Severity,0.005972384
+2019,West Midlands,L1_Yellow_rust_Disease_Severity,0.0052892277
+2019,Yorkshire and The Humber,L1_Yellow_rust_Disease_Severity,0.0051120254
+2021,East,L1_Yellow_rust_Disease_Severity,0.0045601637
+2021,East Midlands,L1_Yellow_rust_Disease_Severity,0.004184367
+2021,North East,L1_Yellow_rust_Disease_Severity,0.0040440406
+2021,North West,L1_Yellow_rust_Disease_Severity,0.004167482
+2021,South East,L1_Yellow_rust_Disease_Severity,0.0042822957
+2021,South West,L1_Yellow_rust_Disease_Severity,0.0037656017
+2021,Wales,L1_Yellow_rust_Disease_Severity,0.004141989
+2021,West Midlands,L1_Yellow_rust_Disease_Severity,0.0039019473
+2021,Yorkshire and The Humber,L1_Yellow_rust_Disease_Severity,0.004100168
+2022,East,L1_Yellow_rust_Disease_Severity,0.0064123143
+2022,East Midlands,L1_Yellow_rust_Disease_Severity,0.0064668264
+2022,North East,L1_Yellow_rust_Disease_Severity,0.0059002964
+2022,North West,L1_Yellow_rust_Disease_Severity,0.0056516435
+2022,South East,L1_Yellow_rust_Disease_Severity,0.0068960167
+2022,South West,L1_Yellow_rust_Disease_Severity,0.0059564714
+2022,Wales,L1_Yellow_rust_Disease_Severity,0.005578125
+2022,West Midlands,L1_Yellow_rust_Disease_Severity,0.005971502
+2022,Yorkshire and The Humber,L1_Yellow_rust_Disease_Severity,0.0061737197
+2023,East,L1_Yellow_rust_Disease_Severity,0.014616979
+2023,East Midlands,L1_Yellow_rust_Disease_Severity,0.014918015
+2023,North East,L1_Yellow_rust_Disease_Severity,0.009275816
+2023,North West,L1_Yellow_rust_Disease_Severity,0.00967733
+2023,South East,L1_Yellow_rust_Disease_Severity,0.011855388
+2023,South West,L1_Yellow_rust_Disease_Severity,0.011869252
+2023,Wales,L1_Yellow_rust_Disease_Severity,0.008684076
+2023,West Midlands,L1_Yellow_rust_Disease_Severity,0.011083379
+2023,Yorkshire and The Humber,L1_Yellow_rust_Disease_Severity,0.009582054
+2024,East,L1_Yellow_rust_Disease_Severity,0.021966727
+2024,East Midlands,L1_Yellow_rust_Disease_Severity,0.020050313
+2024,North East,L1_Yellow_rust_Disease_Severity,0.013257483
+2024,North West,L1_Yellow_rust_Disease_Severity,0.016381547
+2024,South East,L1_Yellow_rust_Disease_Severity,0.018355636
+2024,South West,L1_Yellow_rust_Disease_Severity,0.017427668
+2024,Wales,L1_Yellow_rust_Disease_Severity,0.015836582
+2024,West Midlands,L1_Yellow_rust_Disease_Severity,0.018332915
+2024,Yorkshire and The Humber,L1_Yellow_rust_Disease_Severity,0.017954318
+2025,East,L1_Yellow_rust_Disease_Severity,0.01343871
+2025,East Midlands,L1_Yellow_rust_Disease_Severity,0.0134065
+2025,North East,L1_Yellow_rust_Disease_Severity,0.009264097
+2025,North West,L1_Yellow_rust_Disease_Severity,0.01043302
+2025,South East,L1_Yellow_rust_Disease_Severity,0.011267608
+2025,South West,L1_Yellow_rust_Disease_Severity,0.01176451
+2025,Wales,L1_Yellow_rust_Disease_Severity,0.010042854
+2025,West Midlands,L1_Yellow_rust_Disease_Severity,0.012753731
+2025,Yorkshire and The Humber,L1_Yellow_rust_Disease_Severity,0.010988899

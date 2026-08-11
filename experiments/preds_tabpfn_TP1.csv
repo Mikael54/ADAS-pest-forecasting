@@ -1,0 +1,1345 @@
+Year,Region,target,value
+2005,East,L1_Zymoseptoria_tritici_Disease_Severity,0.727572
+2005,East Midlands,L1_Zymoseptoria_tritici_Disease_Severity,0.6935872
+2005,North East,L1_Zymoseptoria_tritici_Disease_Severity,1.1929154
+2005,North West,L1_Zymoseptoria_tritici_Disease_Severity,3.6014125
+2005,South East,L1_Zymoseptoria_tritici_Disease_Severity,1.4563107
+2005,South West,L1_Zymoseptoria_tritici_Disease_Severity,2.9231524
+2005,West Midlands,L1_Zymoseptoria_tritici_Disease_Severity,1.5322156
+2005,Yorkshire and The Humber,L1_Zymoseptoria_tritici_Disease_Severity,2.0208693
+2006,East,L1_Zymoseptoria_tritici_Disease_Severity,0.8886828
+2006,East Midlands,L1_Zymoseptoria_tritici_Disease_Severity,1.0424876
+2006,North East,L1_Zymoseptoria_tritici_Disease_Severity,0.40439612
+2006,North West,L1_Zymoseptoria_tritici_Disease_Severity,1.3543513
+2006,South East,L1_Zymoseptoria_tritici_Disease_Severity,1.6031957
+2006,South West,L1_Zymoseptoria_tritici_Disease_Severity,1.5246148
+2006,West Midlands,L1_Zymoseptoria_tritici_Disease_Severity,1.9300561
+2006,Yorkshire and The Humber,L1_Zymoseptoria_tritici_Disease_Severity,1.0130265
+2007,East,L1_Zymoseptoria_tritici_Disease_Severity,1.3086301
+2007,East Midlands,L1_Zymoseptoria_tritici_Disease_Severity,1.014307
+2007,North East,L1_Zymoseptoria_tritici_Disease_Severity,0.64320445
+2007,North West,L1_Zymoseptoria_tritici_Disease_Severity,1.9141346
+2007,South East,L1_Zymoseptoria_tritici_Disease_Severity,2.3394766
+2007,South West,L1_Zymoseptoria_tritici_Disease_Severity,2.8667207
+2007,Wales,L1_Zymoseptoria_tritici_Disease_Severity,2.507227
+2007,West Midlands,L1_Zymoseptoria_tritici_Disease_Severity,1.8450323
+2007,Yorkshire and The Humber,L1_Zymoseptoria_tritici_Disease_Severity,1.6405439
+2008,East,L1_Zymoseptoria_tritici_Disease_Severity,0.4470996
+2008,East Midlands,L1_Zymoseptoria_tritici_Disease_Severity,1.0098145
+2008,North East,L1_Zymoseptoria_tritici_Disease_Severity,0.9958806
+2008,North West,L1_Zymoseptoria_tritici_Disease_Severity,1.3662775
+2008,South East,L1_Zymoseptoria_tritici_Disease_Severity,1.5739553
+2008,South West,L1_Zymoseptoria_tritici_Disease_Severity,2.4774094
+2008,West Midlands,L1_Zymoseptoria_tritici_Disease_Severity,1.6560374
+2008,Yorkshire and The Humber,L1_Zymoseptoria_tritici_Disease_Severity,1.868419
+2009,East,L1_Zymoseptoria_tritici_Disease_Severity,0.4210456
+2009,East Midlands,L1_Zymoseptoria_tritici_Disease_Severity,0.8092428
+2009,North East,L1_Zymoseptoria_tritici_Disease_Severity,0.46441054
+2009,North West,L1_Zymoseptoria_tritici_Disease_Severity,2.3348937
+2009,South East,L1_Zymoseptoria_tritici_Disease_Severity,1.1854764
+2009,South West,L1_Zymoseptoria_tritici_Disease_Severity,1.4856517
+2009,West Midlands,L1_Zymoseptoria_tritici_Disease_Severity,1.4997256
+2009,Yorkshire and The Humber,L1_Zymoseptoria_tritici_Disease_Severity,1.095625
+2010,East,L1_Zymoseptoria_tritici_Disease_Severity,0.11906515
+2010,East Midlands,L1_Zymoseptoria_tritici_Disease_Severity,0.13353384
+2010,North East,L1_Zymoseptoria_tritici_Disease_Severity,0.09833594
+2010,North West,L1_Zymoseptoria_tritici_Disease_Severity,0.3802716
+2010,South East,L1_Zymoseptoria_tritici_Disease_Severity,0.32844043
+2010,South West,L1_Zymoseptoria_tritici_Disease_Severity,0.4035449
+2010,Wales,L1_Zymoseptoria_tritici_Disease_Severity,0.53097945
+2010,West Midlands,L1_Zymoseptoria_tritici_Disease_Severity,0.2720301
+2010,Yorkshire and The Humber,L1_Zymoseptoria_tritici_Disease_Severity,0.1842382
+2011,East,L1_Zymoseptoria_tritici_Disease_Severity,0.1816765
+2011,East Midlands,L1_Zymoseptoria_tritici_Disease_Severity,0.26006642
+2011,North East,L1_Zymoseptoria_tritici_Disease_Severity,0.20584455
+2011,North West,L1_Zymoseptoria_tritici_Disease_Severity,1.4291029
+2011,South East,L1_Zymoseptoria_tritici_Disease_Severity,0.5865756
+2011,South West,L1_Zymoseptoria_tritici_Disease_Severity,1.2956271
+2011,West Midlands,L1_Zymoseptoria_tritici_Disease_Severity,0.48076665
+2011,Yorkshire and The Humber,L1_Zymoseptoria_tritici_Disease_Severity,0.38412374
+2012,East,L1_Zymoseptoria_tritici_Disease_Severity,3.3971953
+2012,East Midlands,L1_Zymoseptoria_tritici_Disease_Severity,3.61347
+2012,North East,L1_Zymoseptoria_tritici_Disease_Severity,3.7692542
+2012,North West,L1_Zymoseptoria_tritici_Disease_Severity,4.0089517
+2012,South East,L1_Zymoseptoria_tritici_Disease_Severity,4.9855366
+2012,South West,L1_Zymoseptoria_tritici_Disease_Severity,5.4207315
+2012,Wales,L1_Zymoseptoria_tritici_Disease_Severity,5.1515956
+2012,West Midlands,L1_Zymoseptoria_tritici_Disease_Severity,4.7984657
+2012,Yorkshire and The Humber,L1_Zymoseptoria_tritici_Disease_Severity,4.379741
+2013,East,L1_Zymoseptoria_tritici_Disease_Severity,0.47515804
+2013,East Midlands,L1_Zymoseptoria_tritici_Disease_Severity,0.73909044
+2013,North East,L1_Zymoseptoria_tritici_Disease_Severity,0.32185394
+2013,North West,L1_Zymoseptoria_tritici_Disease_Severity,0.8351111
+2013,South East,L1_Zymoseptoria_tritici_Disease_Severity,1.6380454
+2013,South West,L1_Zymoseptoria_tritici_Disease_Severity,1.2749977
+2013,West Midlands,L1_Zymoseptoria_tritici_Disease_Severity,0.98258203
+2013,Yorkshire and The Humber,L1_Zymoseptoria_tritici_Disease_Severity,1.1165235
+2014,East,L1_Zymoseptoria_tritici_Disease_Severity,1.2562592
+2014,East Midlands,L1_Zymoseptoria_tritici_Disease_Severity,2.3595037
+2014,North East,L1_Zymoseptoria_tritici_Disease_Severity,1.4617413
+2014,North West,L1_Zymoseptoria_tritici_Disease_Severity,2.29773
+2014,South East,L1_Zymoseptoria_tritici_Disease_Severity,2.626616
+2014,South West,L1_Zymoseptoria_tritici_Disease_Severity,3.2044039
+2014,West Midlands,L1_Zymoseptoria_tritici_Disease_Severity,3.267281
+2014,Yorkshire and The Humber,L1_Zymoseptoria_tritici_Disease_Severity,3.1691446
+2015,East,L1_Zymoseptoria_tritici_Disease_Severity,0.54245317
+2015,East Midlands,L1_Zymoseptoria_tritici_Disease_Severity,0.29964805
+2015,North East,L1_Zymoseptoria_tritici_Disease_Severity,0.3109563
+2015,North West,L1_Zymoseptoria_tritici_Disease_Severity,0.6326299
+2015,South East,L1_Zymoseptoria_tritici_Disease_Severity,0.80159307
+2015,South West,L1_Zymoseptoria_tritici_Disease_Severity,0.7701319
+2015,West Midlands,L1_Zymoseptoria_tritici_Disease_Severity,0.5461831
+2015,Yorkshire and The Humber,L1_Zymoseptoria_tritici_Disease_Severity,0.54482
+2016,East,L1_Zymoseptoria_tritici_Disease_Severity,2.6045575
+2016,East Midlands,L1_Zymoseptoria_tritici_Disease_Severity,2.114883
+2016,North East,L1_Zymoseptoria_tritici_Disease_Severity,1.4207557
+2016,North West,L1_Zymoseptoria_tritici_Disease_Severity,1.1205069
+2016,South East,L1_Zymoseptoria_tritici_Disease_Severity,3.026452
+2016,South West,L1_Zymoseptoria_tritici_Disease_Severity,2.3165855
+2016,West Midlands,L1_Zymoseptoria_tritici_Disease_Severity,2.2606149
+2016,Yorkshire and The Humber,L1_Zymoseptoria_tritici_Disease_Severity,2.103258
+2017,East,L1_Zymoseptoria_tritici_Disease_Severity,1.1215358
+2017,East Midlands,L1_Zymoseptoria_tritici_Disease_Severity,0.9036326
+2017,North East,L1_Zymoseptoria_tritici_Disease_Severity,0.6634706
+2017,North West,L1_Zymoseptoria_tritici_Disease_Severity,1.0577593
+2017,South East,L1_Zymoseptoria_tritici_Disease_Severity,1.6650181
+2017,South West,L1_Zymoseptoria_tritici_Disease_Severity,1.861155
+2017,West Midlands,L1_Zymoseptoria_tritici_Disease_Severity,1.4738543
+2017,Yorkshire and The Humber,L1_Zymoseptoria_tritici_Disease_Severity,1.2801284
+2018,East,L1_Zymoseptoria_tritici_Disease_Severity,0.17939594
+2018,East Midlands,L1_Zymoseptoria_tritici_Disease_Severity,0.13897051
+2018,North East,L1_Zymoseptoria_tritici_Disease_Severity,0.07695097
+2018,North West,L1_Zymoseptoria_tritici_Disease_Severity,0.26679718
+2018,South East,L1_Zymoseptoria_tritici_Disease_Severity,0.43015358
+2018,South West,L1_Zymoseptoria_tritici_Disease_Severity,0.5913111
+2018,West Midlands,L1_Zymoseptoria_tritici_Disease_Severity,0.387385
+2018,Yorkshire and The Humber,L1_Zymoseptoria_tritici_Disease_Severity,0.27986228
+2019,East,L1_Zymoseptoria_tritici_Disease_Severity,0.8490265
+2019,East Midlands,L1_Zymoseptoria_tritici_Disease_Severity,1.0686797
+2019,North East,L1_Zymoseptoria_tritici_Disease_Severity,0.51288307
+2019,North West,L1_Zymoseptoria_tritici_Disease_Severity,0.9359362
+2019,South East,L1_Zymoseptoria_tritici_Disease_Severity,2.0901809
+2019,South West,L1_Zymoseptoria_tritici_Disease_Severity,2.1162777
+2019,West Midlands,L1_Zymoseptoria_tritici_Disease_Severity,1.8439237
+2019,Yorkshire and The Humber,L1_Zymoseptoria_tritici_Disease_Severity,1.3981719
+2021,East,L1_Zymoseptoria_tritici_Disease_Severity,0.22527748
+2021,East Midlands,L1_Zymoseptoria_tritici_Disease_Severity,0.1791028
+2021,North East,L1_Zymoseptoria_tritici_Disease_Severity,0.07627916
+2021,North West,L1_Zymoseptoria_tritici_Disease_Severity,0.2007634
+2021,South East,L1_Zymoseptoria_tritici_Disease_Severity,0.50571847
+2021,South West,L1_Zymoseptoria_tritici_Disease_Severity,0.3855026
+2021,Wales,L1_Zymoseptoria_tritici_Disease_Severity,0.3777448
+2021,West Midlands,L1_Zymoseptoria_tritici_Disease_Severity,0.49602395
+2021,Yorkshire and The Humber,L1_Zymoseptoria_tritici_Disease_Severity,0.36875707
+2022,East,L1_Zymoseptoria_tritici_Disease_Severity,1.7210228
+2022,East Midlands,L1_Zymoseptoria_tritici_Disease_Severity,2.4836202
+2022,North East,L1_Zymoseptoria_tritici_Disease_Severity,1.9731731
+2022,North West,L1_Zymoseptoria_tritici_Disease_Severity,4.2022457
+2022,South East,L1_Zymoseptoria_tritici_Disease_Severity,3.5049453
+2022,South West,L1_Zymoseptoria_tritici_Disease_Severity,3.9614112
+2022,Wales,L1_Zymoseptoria_tritici_Disease_Severity,4.1011686
+2022,West Midlands,L1_Zymoseptoria_tritici_Disease_Severity,3.2348344
+2022,Yorkshire and The Humber,L1_Zymoseptoria_tritici_Disease_Severity,2.666781
+2023,East,L1_Zymoseptoria_tritici_Disease_Severity,0.44842127
+2023,East Midlands,L1_Zymoseptoria_tritici_Disease_Severity,0.49266046
+2023,North East,L1_Zymoseptoria_tritici_Disease_Severity,0.4277746
+2023,North West,L1_Zymoseptoria_tritici_Disease_Severity,0.5494994
+2023,South East,L1_Zymoseptoria_tritici_Disease_Severity,0.77909505
+2023,South West,L1_Zymoseptoria_tritici_Disease_Severity,0.70173633
+2023,Wales,L1_Zymoseptoria_tritici_Disease_Severity,0.73177063
+2023,West Midlands,L1_Zymoseptoria_tritici_Disease_Severity,0.76199704
+2023,Yorkshire and The Humber,L1_Zymoseptoria_tritici_Disease_Severity,0.81915295
+2024,East,L1_Zymoseptoria_tritici_Disease_Severity,3.37126
+2024,East Midlands,L1_Zymoseptoria_tritici_Disease_Severity,4.88235
+2024,North East,L1_Zymoseptoria_tritici_Disease_Severity,6.232196
+2024,North West,L1_Zymoseptoria_tritici_Disease_Severity,7.026417
+2024,South East,L1_Zymoseptoria_tritici_Disease_Severity,4.814759
+2024,South West,L1_Zymoseptoria_tritici_Disease_Severity,5.3037972
+2024,Wales,L1_Zymoseptoria_tritici_Disease_Severity,6.267603
+2024,West Midlands,L1_Zymoseptoria_tritici_Disease_Severity,5.9105406
+2024,Yorkshire and The Humber,L1_Zymoseptoria_tritici_Disease_Severity,6.541223
+2025,East,L1_Zymoseptoria_tritici_Disease_Severity,0.44500017
+2025,East Midlands,L1_Zymoseptoria_tritici_Disease_Severity,0.35916525
+2025,North East,L1_Zymoseptoria_tritici_Disease_Severity,0.27062368
+2025,North West,L1_Zymoseptoria_tritici_Disease_Severity,0.85331666
+2025,South East,L1_Zymoseptoria_tritici_Disease_Severity,0.84062505
+2025,South West,L1_Zymoseptoria_tritici_Disease_Severity,1.0713658
+2025,Wales,L1_Zymoseptoria_tritici_Disease_Severity,1.0346446
+2025,West Midlands,L1_Zymoseptoria_tritici_Disease_Severity,0.6317839
+2025,Yorkshire and The Humber,L1_Zymoseptoria_tritici_Disease_Severity,0.6806772
+2005,East,L1_Yellow_rust_Disease_Severity,0.0029583436
+2005,East Midlands,L1_Yellow_rust_Disease_Severity,0.0045668036
+2005,North East,L1_Yellow_rust_Disease_Severity,0.0051392177
+2005,North West,L1_Yellow_rust_Disease_Severity,0.0038752186
+2005,South East,L1_Yellow_rust_Disease_Severity,0.0015399524
+2005,South West,L1_Yellow_rust_Disease_Severity,0.002117886
+2005,West Midlands,L1_Yellow_rust_Disease_Severity,0.0033149922
+2005,Yorkshire and The Humber,L1_Yellow_rust_Disease_Severity,0.004531239
+2006,East,L1_Yellow_rust_Disease_Severity,0.0015604731
+2006,East Midlands,L1_Yellow_rust_Disease_Severity,0.001891896
+2006,North East,L1_Yellow_rust_Disease_Severity,0.0016588478
+2006,North West,L1_Yellow_rust_Disease_Severity,0.0016660797
+2006,South East,L1_Yellow_rust_Disease_Severity,0.0019366518
+2006,South West,L1_Yellow_rust_Disease_Severity,0.0018141052
+2006,West Midlands,L1_Yellow_rust_Disease_Severity,0.0014094302
+2006,Yorkshire and The Humber,L1_Yellow_rust_Disease_Severity,0.0022837645
+2007,East,L1_Yellow_rust_Disease_Severity,0.03964954
+2007,East Midlands,L1_Yellow_rust_Disease_Severity,0.043654658
+2007,North East,L1_Yellow_rust_Disease_Severity,0.043277267
+2007,North West,L1_Yellow_rust_Disease_Severity,0.02335741
+2007,South East,L1_Yellow_rust_Disease_Severity,0.03855007
+2007,South West,L1_Yellow_rust_Disease_Severity,0.04462664
+2007,Wales,L1_Yellow_rust_Disease_Severity,0.032480653
+2007,West Midlands,L1_Yellow_rust_Disease_Severity,0.03571268
+2007,Yorkshire and The Humber,L1_Yellow_rust_Disease_Severity,0.043159693
+2008,East,L1_Yellow_rust_Disease_Severity,0.011186586
+2008,East Midlands,L1_Yellow_rust_Disease_Severity,0.009264652
+2008,North East,L1_Yellow_rust_Disease_Severity,0.0070578563
+2008,North West,L1_Yellow_rust_Disease_Severity,0.0066318116
+2008,South East,L1_Yellow_rust_Disease_Severity,0.0089192055
+2008,South West,L1_Yellow_rust_Disease_Severity,0.0075527984
+2008,West Midlands,L1_Yellow_rust_Disease_Severity,0.008629761
+2008,Yorkshire and The Humber,L1_Yellow_rust_Disease_Severity,0.008802734
+2009,East,L1_Yellow_rust_Disease_Severity,0.008214486
+2009,East Midlands,L1_Yellow_rust_Disease_Severity,0.005326086
+2009,North East,L1_Yellow_rust_Disease_Severity,0.0053624487
+2009,North West,L1_Yellow_rust_Disease_Severity,0.0031432235
+2009,South East,L1_Yellow_rust_Disease_Severity,0.0044312705
+2009,South West,L1_Yellow_rust_Disease_Severity,0.003881808
+2009,West Midlands,L1_Yellow_rust_Disease_Severity,0.004664064
+2009,Yorkshire and The Humber,L1_Yellow_rust_Disease_Severity,0.0073422072
+2010,East,L1_Yellow_rust_Disease_Severity,0.0036611622
+2010,East Midlands,L1_Yellow_rust_Disease_Severity,0.0035533595
+2010,North East,L1_Yellow_rust_Disease_Severity,0.0033943765
+2010,North West,L1_Yellow_rust_Disease_Severity,0.0037964745
+2010,South East,L1_Yellow_rust_Disease_Severity,0.006224451
+2010,South West,L1_Yellow_rust_Disease_Severity,0.0039824536
+2010,Wales,L1_Yellow_rust_Disease_Severity,0.0035130098
+2010,West Midlands,L1_Yellow_rust_Disease_Severity,0.003733926
+2010,Yorkshire and The Humber,L1_Yellow_rust_Disease_Severity,0.0042348932
+2011,East,L1_Yellow_rust_Disease_Severity,0.009605385
+2011,East Midlands,L1_Yellow_rust_Disease_Severity,0.0106001515
+2011,North East,L1_Yellow_rust_Disease_Severity,0.00801435
+2011,North West,L1_Yellow_rust_Disease_Severity,0.00543727
+2011,South East,L1_Yellow_rust_Disease_Severity,0.011063049
+2011,South West,L1_Yellow_rust_Disease_Severity,0.011616325
+2011,West Midlands,L1_Yellow_rust_Disease_Severity,0.0085429745
+2011,Yorkshire and The Humber,L1_Yellow_rust_Disease_Severity,0.0074274074
+2012,East,L1_Yellow_rust_Disease_Severity,0.00900734
+2012,East Midlands,L1_Yellow_rust_Disease_Severity,0.00887735
+2012,North East,L1_Yellow_rust_Disease_Severity,0.008014776
+2012,North West,L1_Yellow_rust_Disease_Severity,0.0070263324
+2012,South East,L1_Yellow_rust_Disease_Severity,0.0073808846
+2012,South West,L1_Yellow_rust_Disease_Severity,0.0068418244
+2012,Wales,L1_Yellow_rust_Disease_Severity,0.006608448
+2012,West Midlands,L1_Yellow_rust_Disease_Severity,0.00784872
+2012,Yorkshire and The Humber,L1_Yellow_rust_Disease_Severity,0.00847939
+2013,East,L1_Yellow_rust_Disease_Severity,0.011643788
+2013,East Midlands,L1_Yellow_rust_Disease_Severity,0.010374859
+2013,North East,L1_Yellow_rust_Disease_Severity,0.008668776
+2013,North West,L1_Yellow_rust_Disease_Severity,0.008451965
+2013,South East,L1_Yellow_rust_Disease_Severity,0.00930804
+2013,South West,L1_Yellow_rust_Disease_Severity,0.008864686
+2013,West Midlands,L1_Yellow_rust_Disease_Severity,0.009173773
+2013,Yorkshire and The Humber,L1_Yellow_rust_Disease_Severity,0.008938654
+2014,East,L1_Yellow_rust_Disease_Severity,0.010739291
+2014,East Midlands,L1_Yellow_rust_Disease_Severity,0.009709504
+2014,North East,L1_Yellow_rust_Disease_Severity,0.009692661
+2014,North West,L1_Yellow_rust_Disease_Severity,0.008345686
+2014,South East,L1_Yellow_rust_Disease_Severity,0.008881173
+2014,South West,L1_Yellow_rust_Disease_Severity,0.008419519
+2014,West Midlands,L1_Yellow_rust_Disease_Severity,0.00891831
+2014,Yorkshire and The Humber,L1_Yellow_rust_Disease_Severity,0.009878796
+2015,East,L1_Yellow_rust_Disease_Severity,0.0038717259
+2015,East Midlands,L1_Yellow_rust_Disease_Severity,0.0035998398
+2015,North East,L1_Yellow_rust_Disease_Severity,0.0032933084
+2015,North West,L1_Yellow_rust_Disease_Severity,0.0035302355
+2015,South East,L1_Yellow_rust_Disease_Severity,0.0032866432
+2015,South West,L1_Yellow_rust_Disease_Severity,0.0035885638
+2015,West Midlands,L1_Yellow_rust_Disease_Severity,0.0031615328
+2015,Yorkshire and The Humber,L1_Yellow_rust_Disease_Severity,0.0035399876
+2016,East,L1_Yellow_rust_Disease_Severity,0.00684827
+2016,East Midlands,L1_Yellow_rust_Disease_Severity,0.005162432
+2016,North East,L1_Yellow_rust_Disease_Severity,0.004555171
+2016,North West,L1_Yellow_rust_Disease_Severity,0.0034913486
+2016,South East,L1_Yellow_rust_Disease_Severity,0.0050762948
+2016,South West,L1_Yellow_rust_Disease_Severity,0.0039172494
+2016,West Midlands,L1_Yellow_rust_Disease_Severity,0.0047962116
+2016,Yorkshire and The Humber,L1_Yellow_rust_Disease_Severity,0.0047558276
+2017,East,L1_Yellow_rust_Disease_Severity,0.011434615
+2017,East Midlands,L1_Yellow_rust_Disease_Severity,0.0061670803
+2017,North East,L1_Yellow_rust_Disease_Severity,0.0054268213
+2017,North West,L1_Yellow_rust_Disease_Severity,0.004810945
+2017,South East,L1_Yellow_rust_Disease_Severity,0.011303866
+2017,South West,L1_Yellow_rust_Disease_Severity,0.005183007
+2017,West Midlands,L1_Yellow_rust_Disease_Severity,0.0057070134
+2017,Yorkshire and The Humber,L1_Yellow_rust_Disease_Severity,0.0057723545
+2018,East,L1_Yellow_rust_Disease_Severity,0.0077575706
+2018,East Midlands,L1_Yellow_rust_Disease_Severity,0.007805613
+2018,North East,L1_Yellow_rust_Disease_Severity,0.0066596903
+2018,North West,L1_Yellow_rust_Disease_Severity,0.0059191445
+2018,South East,L1_Yellow_rust_Disease_Severity,0.006825274
+2018,South West,L1_Yellow_rust_Disease_Severity,0.0069078403
+2018,West Midlands,L1_Yellow_rust_Disease_Severity,0.007323744
+2018,Yorkshire and The Humber,L1_Yellow_rust_Disease_Severity,0.0068130204
+2019,East,L1_Yellow_rust_Disease_Severity,0.0051670773
+2019,East Midlands,L1_Yellow_rust_Disease_Severity,0.0060468772
+2019,North East,L1_Yellow_rust_Disease_Severity,0.0052190656
+2019,North West,L1_Yellow_rust_Disease_Severity,0.005949257
+2019,South East,L1_Yellow_rust_Disease_Severity,0.0049126125
+2019,South West,L1_Yellow_rust_Disease_Severity,0.005972384
+2019,West Midlands,L1_Yellow_rust_Disease_Severity,0.0052892277
+2019,Yorkshire and The Humber,L1_Yellow_rust_Disease_Severity,0.0051120254
+2021,East,L1_Yellow_rust_Disease_Severity,0.0045601637
+2021,East Midlands,L1_Yellow_rust_Disease_Severity,0.004184367
+2021,North East,L1_Yellow_rust_Disease_Severity,0.0040440406
+2021,North West,L1_Yellow_rust_Disease_Severity,0.004167482
+2021,South East,L1_Yellow_rust_Disease_Severity,0.0042822957
+2021,South West,L1_Yellow_rust_Disease_Severity,0.0037656017
+2021,Wales,L1_Yellow_rust_Disease_Severity,0.004141989
+2021,West Midlands,L1_Yellow_rust_Disease_Severity,0.0039019473
+2021,Yorkshire and The Humber,L1_Yellow_rust_Disease_Severity,0.004100168
+2022,East,L1_Yellow_rust_Disease_Severity,0.0064123143
+2022,East Midlands,L1_Yellow_rust_Disease_Severity,0.0064668264
+2022,North East,L1_Yellow_rust_Disease_Severity,0.0059002964
+2022,North West,L1_Yellow_rust_Disease_Severity,0.0056516435
+2022,South East,L1_Yellow_rust_Disease_Severity,0.0068960167
+2022,South West,L1_Yellow_rust_Disease_Severity,0.0059564714
+2022,Wales,L1_Yellow_rust_Disease_Severity,0.005578125
+2022,West Midlands,L1_Yellow_rust_Disease_Severity,0.005971502
+2022,Yorkshire and The Humber,L1_Yellow_rust_Disease_Severity,0.0061737197
+2023,East,L1_Yellow_rust_Disease_Severity,0.014616979
+2023,East Midlands,L1_Yellow_rust_Disease_Severity,0.014918015
+2023,North East,L1_Yellow_rust_Disease_Severity,0.009275816
+2023,North West,L1_Yellow_rust_Disease_Severity,0.00967733
+2023,South East,L1_Yellow_rust_Disease_Severity,0.011855388
+2023,South West,L1_Yellow_rust_Disease_Severity,0.011869252
+2023,Wales,L1_Yellow_rust_Disease_Severity,0.008684076
+2023,West Midlands,L1_Yellow_rust_Disease_Severity,0.011083379
+2023,Yorkshire and The Humber,L1_Yellow_rust_Disease_Severity,0.009582054
+2024,East,L1_Yellow_rust_Disease_Severity,0.021966727
+2024,East Midlands,L1_Yellow_rust_Disease_Severity,0.020050313
+2024,North East,L1_Yellow_rust_Disease_Severity,0.013257483
+2024,North West,L1_Yellow_rust_Disease_Severity,0.016381547
+2024,South East,L1_Yellow_rust_Disease_Severity,0.018355636
+2024,South West,L1_Yellow_rust_Disease_Severity,0.017427668
+2024,Wales,L1_Yellow_rust_Disease_Severity,0.015836582
+2024,West Midlands,L1_Yellow_rust_Disease_Severity,0.018332915
+2024,Yorkshire and The Humber,L1_Yellow_rust_Disease_Severity,0.017954318
+2025,East,L1_Yellow_rust_Disease_Severity,0.01343871
+2025,East Midlands,L1_Yellow_rust_Disease_Severity,0.0134065
+2025,North East,L1_Yellow_rust_Disease_Severity,0.009264097
+2025,North West,L1_Yellow_rust_Disease_Severity,0.01043302
+2025,South East,L1_Yellow_rust_Disease_Severity,0.011267608
+2025,South West,L1_Yellow_rust_Disease_Severity,0.01176451
+2025,Wales,L1_Yellow_rust_Disease_Severity,0.010042854
+2025,West Midlands,L1_Yellow_rust_Disease_Severity,0.012753731
+2025,Yorkshire and The Humber,L1_Yellow_rust_Disease_Severity,0.010988899
+2005,East,L1_Zymoseptoria_tritici_Crop_Incidence,56.9514
+2005,East Midlands,L1_Zymoseptoria_tritici_Crop_Incidence,58.94465
+2005,North East,L1_Zymoseptoria_tritici_Crop_Incidence,66.05641
+2005,North West,L1_Zymoseptoria_tritici_Crop_Incidence,80.94951
+2005,South East,L1_Zymoseptoria_tritici_Crop_Incidence,55.879745
+2005,South West,L1_Zymoseptoria_tritici_Crop_Incidence,76.55359
+2005,West Midlands,L1_Zymoseptoria_tritici_Crop_Incidence,64.71091
+2005,Yorkshire and The Humber,L1_Zymoseptoria_tritici_Crop_Incidence,69.26984
+2006,East,L1_Zymoseptoria_tritici_Crop_Incidence,60.98647
+2006,East Midlands,L1_Zymoseptoria_tritici_Crop_Incidence,60.7462
+2006,North East,L1_Zymoseptoria_tritici_Crop_Incidence,39.498505
+2006,North West,L1_Zymoseptoria_tritici_Crop_Incidence,63.576385
+2006,South East,L1_Zymoseptoria_tritici_Crop_Incidence,65.77423
+2006,South West,L1_Zymoseptoria_tritici_Crop_Incidence,65.06404
+2006,West Midlands,L1_Zymoseptoria_tritici_Crop_Incidence,68.96774
+2006,Yorkshire and The Humber,L1_Zymoseptoria_tritici_Crop_Incidence,51.942986
+2007,East,L1_Zymoseptoria_tritici_Crop_Incidence,70.17337
+2007,East Midlands,L1_Zymoseptoria_tritici_Crop_Incidence,68.51686
+2007,North East,L1_Zymoseptoria_tritici_Crop_Incidence,53.913925
+2007,North West,L1_Zymoseptoria_tritici_Crop_Incidence,70.99757
+2007,South East,L1_Zymoseptoria_tritici_Crop_Incidence,71.72721
+2007,South West,L1_Zymoseptoria_tritici_Crop_Incidence,75.601746
+2007,Wales,L1_Zymoseptoria_tritici_Crop_Incidence,71.78469
+2007,West Midlands,L1_Zymoseptoria_tritici_Crop_Incidence,73.3624
+2007,Yorkshire and The Humber,L1_Zymoseptoria_tritici_Crop_Incidence,64.99141
+2008,East,L1_Zymoseptoria_tritici_Crop_Incidence,48.185867
+2008,East Midlands,L1_Zymoseptoria_tritici_Crop_Incidence,58.76032
+2008,North East,L1_Zymoseptoria_tritici_Crop_Incidence,50.300488
+2008,North West,L1_Zymoseptoria_tritici_Crop_Incidence,58.37623
+2008,South East,L1_Zymoseptoria_tritici_Crop_Incidence,69.6027
+2008,South West,L1_Zymoseptoria_tritici_Crop_Incidence,78.132225
+2008,West Midlands,L1_Zymoseptoria_tritici_Crop_Incidence,65.74794
+2008,Yorkshire and The Humber,L1_Zymoseptoria_tritici_Crop_Incidence,64.66031
+2009,East,L1_Zymoseptoria_tritici_Crop_Incidence,50.54434
+2009,East Midlands,L1_Zymoseptoria_tritici_Crop_Incidence,64.27342
+2009,North East,L1_Zymoseptoria_tritici_Crop_Incidence,49.700752
+2009,North West,L1_Zymoseptoria_tritici_Crop_Incidence,75.7916
+2009,South East,L1_Zymoseptoria_tritici_Crop_Incidence,60.369034
+2009,South West,L1_Zymoseptoria_tritici_Crop_Incidence,70.988464
+2009,West Midlands,L1_Zymoseptoria_tritici_Crop_Incidence,69.71156
+2009,Yorkshire and The Humber,L1_Zymoseptoria_tritici_Crop_Incidence,62.31656
+2010,East,L1_Zymoseptoria_tritici_Crop_Incidence,28.468853
+2010,East Midlands,L1_Zymoseptoria_tritici_Crop_Incidence,28.586073
+2010,North East,L1_Zymoseptoria_tritici_Crop_Incidence,20.641487
+2010,North West,L1_Zymoseptoria_tritici_Crop_Incidence,32.63191
+2010,South East,L1_Zymoseptoria_tritici_Crop_Incidence,35.63994
+2010,South West,L1_Zymoseptoria_tritici_Crop_Incidence,35.596214
+2010,Wales,L1_Zymoseptoria_tritici_Crop_Incidence,34.137405
+2010,West Midlands,L1_Zymoseptoria_tritici_Crop_Incidence,34.411327
+2010,Yorkshire and The Humber,L1_Zymoseptoria_tritici_Crop_Incidence,30.112808
+2011,East,L1_Zymoseptoria_tritici_Crop_Incidence,30.875555
+2011,East Midlands,L1_Zymoseptoria_tritici_Crop_Incidence,39.21321
+2011,North East,L1_Zymoseptoria_tritici_Crop_Incidence,37.312843
+2011,North West,L1_Zymoseptoria_tritici_Crop_Incidence,74.725494
+2011,South East,L1_Zymoseptoria_tritici_Crop_Incidence,44.337288
+2011,South West,L1_Zymoseptoria_tritici_Crop_Incidence,63.15393
+2011,West Midlands,L1_Zymoseptoria_tritici_Crop_Incidence,44.96245
+2011,Yorkshire and The Humber,L1_Zymoseptoria_tritici_Crop_Incidence,47.79571
+2012,East,L1_Zymoseptoria_tritici_Crop_Incidence,76.121445
+2012,East Midlands,L1_Zymoseptoria_tritici_Crop_Incidence,78.76087
+2012,North East,L1_Zymoseptoria_tritici_Crop_Incidence,73.6879
+2012,North West,L1_Zymoseptoria_tritici_Crop_Incidence,82.37241
+2012,South East,L1_Zymoseptoria_tritici_Crop_Incidence,85.669556
+2012,South West,L1_Zymoseptoria_tritici_Crop_Incidence,87.24791
+2012,Wales,L1_Zymoseptoria_tritici_Crop_Incidence,83.19793
+2012,West Midlands,L1_Zymoseptoria_tritici_Crop_Incidence,85.39805
+2012,Yorkshire and The Humber,L1_Zymoseptoria_tritici_Crop_Incidence,83.45441
+2013,East,L1_Zymoseptoria_tritici_Crop_Incidence,39.740074
+2013,East Midlands,L1_Zymoseptoria_tritici_Crop_Incidence,50.017414
+2013,North East,L1_Zymoseptoria_tritici_Crop_Incidence,41.438858
+2013,North West,L1_Zymoseptoria_tritici_Crop_Incidence,55.965424
+2013,South East,L1_Zymoseptoria_tritici_Crop_Incidence,64.790726
+2013,South West,L1_Zymoseptoria_tritici_Crop_Incidence,61.395523
+2013,West Midlands,L1_Zymoseptoria_tritici_Crop_Incidence,55.93315
+2013,Yorkshire and The Humber,L1_Zymoseptoria_tritici_Crop_Incidence,54.919296
+2014,East,L1_Zymoseptoria_tritici_Crop_Incidence,67.3169
+2014,East Midlands,L1_Zymoseptoria_tritici_Crop_Incidence,77.17532
+2014,North East,L1_Zymoseptoria_tritici_Crop_Incidence,73.389084
+2014,North West,L1_Zymoseptoria_tritici_Crop_Incidence,78.279884
+2014,South East,L1_Zymoseptoria_tritici_Crop_Incidence,82.174
+2014,South West,L1_Zymoseptoria_tritici_Crop_Incidence,83.150154
+2014,West Midlands,L1_Zymoseptoria_tritici_Crop_Incidence,83.06578
+2014,Yorkshire and The Humber,L1_Zymoseptoria_tritici_Crop_Incidence,81.357124
+2015,East,L1_Zymoseptoria_tritici_Crop_Incidence,41.91501
+2015,East Midlands,L1_Zymoseptoria_tritici_Crop_Incidence,37.927425
+2015,North East,L1_Zymoseptoria_tritici_Crop_Incidence,37.43656
+2015,North West,L1_Zymoseptoria_tritici_Crop_Incidence,58.14068
+2015,South East,L1_Zymoseptoria_tritici_Crop_Incidence,41.652203
+2015,South West,L1_Zymoseptoria_tritici_Crop_Incidence,45.50605
+2015,West Midlands,L1_Zymoseptoria_tritici_Crop_Incidence,44.685944
+2015,Yorkshire and The Humber,L1_Zymoseptoria_tritici_Crop_Incidence,46.442024
+2016,East,L1_Zymoseptoria_tritici_Crop_Incidence,79.3691
+2016,East Midlands,L1_Zymoseptoria_tritici_Crop_Incidence,77.79736
+2016,North East,L1_Zymoseptoria_tritici_Crop_Incidence,67.55926
+2016,North West,L1_Zymoseptoria_tritici_Crop_Incidence,77.67189
+2016,South East,L1_Zymoseptoria_tritici_Crop_Incidence,86.43068
+2016,South West,L1_Zymoseptoria_tritici_Crop_Incidence,81.943405
+2016,West Midlands,L1_Zymoseptoria_tritici_Crop_Incidence,83.04979
+2016,Yorkshire and The Humber,L1_Zymoseptoria_tritici_Crop_Incidence,75.633865
+2017,East,L1_Zymoseptoria_tritici_Crop_Incidence,44.199883
+2017,East Midlands,L1_Zymoseptoria_tritici_Crop_Incidence,56.461815
+2017,North East,L1_Zymoseptoria_tritici_Crop_Incidence,45.549854
+2017,North West,L1_Zymoseptoria_tritici_Crop_Incidence,72.29869
+2017,South East,L1_Zymoseptoria_tritici_Crop_Incidence,52.328426
+2017,South West,L1_Zymoseptoria_tritici_Crop_Incidence,69.53769
+2017,West Midlands,L1_Zymoseptoria_tritici_Crop_Incidence,63.25585
+2017,Yorkshire and The Humber,L1_Zymoseptoria_tritici_Crop_Incidence,57.711926
+2018,East,L1_Zymoseptoria_tritici_Crop_Incidence,26.928411
+2018,East Midlands,L1_Zymoseptoria_tritici_Crop_Incidence,28.232704
+2018,North East,L1_Zymoseptoria_tritici_Crop_Incidence,21.209007
+2018,North West,L1_Zymoseptoria_tritici_Crop_Incidence,36.671947
+2018,South East,L1_Zymoseptoria_tritici_Crop_Incidence,39.334282
+2018,South West,L1_Zymoseptoria_tritici_Crop_Incidence,43.817795
+2018,West Midlands,L1_Zymoseptoria_tritici_Crop_Incidence,37.691566
+2018,Yorkshire and The Humber,L1_Zymoseptoria_tritici_Crop_Incidence,26.72005
+2019,East,L1_Zymoseptoria_tritici_Crop_Incidence,59.519356
+2019,East Midlands,L1_Zymoseptoria_tritici_Crop_Incidence,58.15885
+2019,North East,L1_Zymoseptoria_tritici_Crop_Incidence,51.451523
+2019,North West,L1_Zymoseptoria_tritici_Crop_Incidence,73.7491
+2019,South East,L1_Zymoseptoria_tritici_Crop_Incidence,68.51039
+2019,South West,L1_Zymoseptoria_tritici_Crop_Incidence,69.5099
+2019,West Midlands,L1_Zymoseptoria_tritici_Crop_Incidence,69.62926
+2019,Yorkshire and The Humber,L1_Zymoseptoria_tritici_Crop_Incidence,66.92876
+2021,East,L1_Zymoseptoria_tritici_Crop_Incidence,47.706184
+2021,East Midlands,L1_Zymoseptoria_tritici_Crop_Incidence,49.52587
+2021,North East,L1_Zymoseptoria_tritici_Crop_Incidence,28.887745
+2021,North West,L1_Zymoseptoria_tritici_Crop_Incidence,41.464954
+2021,South East,L1_Zymoseptoria_tritici_Crop_Incidence,59.0691
+2021,South West,L1_Zymoseptoria_tritici_Crop_Incidence,60.93287
+2021,Wales,L1_Zymoseptoria_tritici_Crop_Incidence,59.43741
+2021,West Midlands,L1_Zymoseptoria_tritici_Crop_Incidence,58.011658
+2021,Yorkshire and The Humber,L1_Zymoseptoria_tritici_Crop_Incidence,42.32261
+2022,East,L1_Zymoseptoria_tritici_Crop_Incidence,49.85686
+2022,East Midlands,L1_Zymoseptoria_tritici_Crop_Incidence,52.65761
+2022,North East,L1_Zymoseptoria_tritici_Crop_Incidence,46.517174
+2022,North West,L1_Zymoseptoria_tritici_Crop_Incidence,70.17403
+2022,South East,L1_Zymoseptoria_tritici_Crop_Incidence,66.58944
+2022,South West,L1_Zymoseptoria_tritici_Crop_Incidence,64.34961
+2022,Wales,L1_Zymoseptoria_tritici_Crop_Incidence,65.041794
+2022,West Midlands,L1_Zymoseptoria_tritici_Crop_Incidence,62.54885
+2022,Yorkshire and The Humber,L1_Zymoseptoria_tritici_Crop_Incidence,57.8077
+2023,East,L1_Zymoseptoria_tritici_Crop_Incidence,30.608097
+2023,East Midlands,L1_Zymoseptoria_tritici_Crop_Incidence,30.466978
+2023,North East,L1_Zymoseptoria_tritici_Crop_Incidence,29.30838
+2023,North West,L1_Zymoseptoria_tritici_Crop_Incidence,29.60037
+2023,South East,L1_Zymoseptoria_tritici_Crop_Incidence,39.90084
+2023,South West,L1_Zymoseptoria_tritici_Crop_Incidence,34.68206
+2023,Wales,L1_Zymoseptoria_tritici_Crop_Incidence,37.020084
+2023,West Midlands,L1_Zymoseptoria_tritici_Crop_Incidence,38.575836
+2023,Yorkshire and The Humber,L1_Zymoseptoria_tritici_Crop_Incidence,37.240067
+2024,East,L1_Zymoseptoria_tritici_Crop_Incidence,83.16603
+2024,East Midlands,L1_Zymoseptoria_tritici_Crop_Incidence,84.034035
+2024,North East,L1_Zymoseptoria_tritici_Crop_Incidence,82.83749
+2024,North West,L1_Zymoseptoria_tritici_Crop_Incidence,86.31509
+2024,South East,L1_Zymoseptoria_tritici_Crop_Incidence,87.22841
+2024,South West,L1_Zymoseptoria_tritici_Crop_Incidence,86.66115
+2024,Wales,L1_Zymoseptoria_tritici_Crop_Incidence,87.61957
+2024,West Midlands,L1_Zymoseptoria_tritici_Crop_Incidence,87.47423
+2024,Yorkshire and The Humber,L1_Zymoseptoria_tritici_Crop_Incidence,85.81969
+2025,East,L1_Zymoseptoria_tritici_Crop_Incidence,55.891205
+2025,East Midlands,L1_Zymoseptoria_tritici_Crop_Incidence,55.51322
+2025,North East,L1_Zymoseptoria_tritici_Crop_Incidence,56.46225
+2025,North West,L1_Zymoseptoria_tritici_Crop_Incidence,73.16789
+2025,South East,L1_Zymoseptoria_tritici_Crop_Incidence,64.98149
+2025,South West,L1_Zymoseptoria_tritici_Crop_Incidence,72.12494
+2025,Wales,L1_Zymoseptoria_tritici_Crop_Incidence,78.09062
+2025,West Midlands,L1_Zymoseptoria_tritici_Crop_Incidence,63.151123
+2025,Yorkshire and The Humber,L1_Zymoseptoria_tritici_Crop_Incidence,62.30584
+2005,East,L1_Yellow_rust_Crop_Incidence,0.46747583
+2005,East Midlands,L1_Yellow_rust_Crop_Incidence,1.0139027
+2005,North East,L1_Yellow_rust_Crop_Incidence,0.7884526
+2005,North West,L1_Yellow_rust_Crop_Incidence,0.44241387
+2005,South East,L1_Yellow_rust_Crop_Incidence,0.2573413
+2005,South West,L1_Yellow_rust_Crop_Incidence,0.27938646
+2005,West Midlands,L1_Yellow_rust_Crop_Incidence,0.38335508
+2005,Yorkshire and The Humber,L1_Yellow_rust_Crop_Incidence,0.48803043
+2006,East,L1_Yellow_rust_Crop_Incidence,0.24738128
+2006,East Midlands,L1_Yellow_rust_Crop_Incidence,0.22275436
+2006,North East,L1_Yellow_rust_Crop_Incidence,0.12478182
+2006,North West,L1_Yellow_rust_Crop_Incidence,0.08487311
+2006,South East,L1_Yellow_rust_Crop_Incidence,0.13846263
+2006,South West,L1_Yellow_rust_Crop_Incidence,0.14205854
+2006,West Midlands,L1_Yellow_rust_Crop_Incidence,0.048576027
+2006,Yorkshire and The Humber,L1_Yellow_rust_Crop_Incidence,0.07329201
+2007,East,L1_Yellow_rust_Crop_Incidence,2.6083376
+2007,East Midlands,L1_Yellow_rust_Crop_Incidence,4.262143
+2007,North East,L1_Yellow_rust_Crop_Incidence,3.3387203
+2007,North West,L1_Yellow_rust_Crop_Incidence,1.7495649
+2007,South East,L1_Yellow_rust_Crop_Incidence,3.1332445
+2007,South West,L1_Yellow_rust_Crop_Incidence,2.9660134
+2007,Wales,L1_Yellow_rust_Crop_Incidence,2.987115
+2007,West Midlands,L1_Yellow_rust_Crop_Incidence,2.9470956
+2007,Yorkshire and The Humber,L1_Yellow_rust_Crop_Incidence,3.5125408
+2008,East,L1_Yellow_rust_Crop_Incidence,1.4839944
+2008,East Midlands,L1_Yellow_rust_Crop_Incidence,1.4950204
+2008,North East,L1_Yellow_rust_Crop_Incidence,0.81017315
+2008,North West,L1_Yellow_rust_Crop_Incidence,0.569245
+2008,South East,L1_Yellow_rust_Crop_Incidence,0.6816152
+2008,South West,L1_Yellow_rust_Crop_Incidence,0.7813972
+2008,West Midlands,L1_Yellow_rust_Crop_Incidence,0.77447104
+2008,Yorkshire and The Humber,L1_Yellow_rust_Crop_Incidence,0.7921822
+2009,East,L1_Yellow_rust_Crop_Incidence,1.2144545
+2009,East Midlands,L1_Yellow_rust_Crop_Incidence,1.3585151
+2009,North East,L1_Yellow_rust_Crop_Incidence,1.6304879
+2009,North West,L1_Yellow_rust_Crop_Incidence,0.9172312
+2009,South East,L1_Yellow_rust_Crop_Incidence,1.2785456
+2009,South West,L1_Yellow_rust_Crop_Incidence,0.99014497
+2009,West Midlands,L1_Yellow_rust_Crop_Incidence,1.1341232
+2009,Yorkshire and The Humber,L1_Yellow_rust_Crop_Incidence,1.3475583
+2010,East,L1_Yellow_rust_Crop_Incidence,0.6351171
+2010,East Midlands,L1_Yellow_rust_Crop_Incidence,0.82043415
+2010,North East,L1_Yellow_rust_Crop_Incidence,0.7242209
+2010,North West,L1_Yellow_rust_Crop_Incidence,0.64429086
+2010,South East,L1_Yellow_rust_Crop_Incidence,0.7609127
+2010,South West,L1_Yellow_rust_Crop_Incidence,0.79066277
+2010,Wales,L1_Yellow_rust_Crop_Incidence,0.8589679
+2010,West Midlands,L1_Yellow_rust_Crop_Incidence,0.77760005
+2010,Yorkshire and The Humber,L1_Yellow_rust_Crop_Incidence,0.85655665
+2011,East,L1_Yellow_rust_Crop_Incidence,1.0056925
+2011,East Midlands,L1_Yellow_rust_Crop_Incidence,1.6409712
+2011,North East,L1_Yellow_rust_Crop_Incidence,0.9475548
+2011,North West,L1_Yellow_rust_Crop_Incidence,0.51377344
+2011,South East,L1_Yellow_rust_Crop_Incidence,1.0666251
+2011,South West,L1_Yellow_rust_Crop_Incidence,1.2059476
+2011,West Midlands,L1_Yellow_rust_Crop_Incidence,1.2582957
+2011,Yorkshire and The Humber,L1_Yellow_rust_Crop_Incidence,1.2562072
+2012,East,L1_Yellow_rust_Crop_Incidence,2.3540816
+2012,East Midlands,L1_Yellow_rust_Crop_Incidence,2.50922
+2012,North East,L1_Yellow_rust_Crop_Incidence,2.0014324
+2012,North West,L1_Yellow_rust_Crop_Incidence,1.2088807
+2012,South East,L1_Yellow_rust_Crop_Incidence,1.7101387
+2012,South West,L1_Yellow_rust_Crop_Incidence,1.7463549
+2012,Wales,L1_Yellow_rust_Crop_Incidence,1.9903448
+2012,West Midlands,L1_Yellow_rust_Crop_Incidence,1.8744206
+2012,Yorkshire and The Humber,L1_Yellow_rust_Crop_Incidence,1.9579498
+2013,East,L1_Yellow_rust_Crop_Incidence,1.5092003
+2013,East Midlands,L1_Yellow_rust_Crop_Incidence,1.2813358
+2013,North East,L1_Yellow_rust_Crop_Incidence,0.6685627
+2013,North West,L1_Yellow_rust_Crop_Incidence,0.49880534
+2013,South East,L1_Yellow_rust_Crop_Incidence,0.914769
+2013,South West,L1_Yellow_rust_Crop_Incidence,0.80257976
+2013,West Midlands,L1_Yellow_rust_Crop_Incidence,0.82194793
+2013,Yorkshire and The Humber,L1_Yellow_rust_Crop_Incidence,0.75765085
+2014,East,L1_Yellow_rust_Crop_Incidence,4.5324707
+2014,East Midlands,L1_Yellow_rust_Crop_Incidence,4.169727
+2014,North East,L1_Yellow_rust_Crop_Incidence,2.9680724
+2014,North West,L1_Yellow_rust_Crop_Incidence,2.720284
+2014,South East,L1_Yellow_rust_Crop_Incidence,2.7681198
+2014,South West,L1_Yellow_rust_Crop_Incidence,2.9325666
+2014,West Midlands,L1_Yellow_rust_Crop_Incidence,3.6731899
+2014,Yorkshire and The Humber,L1_Yellow_rust_Crop_Incidence,3.5932515
+2015,East,L1_Yellow_rust_Crop_Incidence,0.9065833
+2015,East Midlands,L1_Yellow_rust_Crop_Incidence,1.1044214
+2015,North East,L1_Yellow_rust_Crop_Incidence,0.6647974
+2015,North West,L1_Yellow_rust_Crop_Incidence,0.24450764
+2015,South East,L1_Yellow_rust_Crop_Incidence,0.7553811
+2015,South West,L1_Yellow_rust_Crop_Incidence,0.8382981
+2015,West Midlands,L1_Yellow_rust_Crop_Incidence,0.831475
+2015,Yorkshire and The Humber,L1_Yellow_rust_Crop_Incidence,0.95350564
+2016,East,L1_Yellow_rust_Crop_Incidence,0.9690994
+2016,East Midlands,L1_Yellow_rust_Crop_Incidence,0.7865182
+2016,North East,L1_Yellow_rust_Crop_Incidence,0.34417778
+2016,North West,L1_Yellow_rust_Crop_Incidence,0.074431784
+2016,South East,L1_Yellow_rust_Crop_Incidence,0.66663074
+2016,South West,L1_Yellow_rust_Crop_Incidence,0.38578266
+2016,West Midlands,L1_Yellow_rust_Crop_Incidence,0.63233554
+2016,Yorkshire and The Humber,L1_Yellow_rust_Crop_Incidence,0.7199869
+2017,East,L1_Yellow_rust_Crop_Incidence,1.70084
+2017,East Midlands,L1_Yellow_rust_Crop_Incidence,1.1868389
+2017,North East,L1_Yellow_rust_Crop_Incidence,0.6737417
+2017,North West,L1_Yellow_rust_Crop_Incidence,0.24325186
+2017,South East,L1_Yellow_rust_Crop_Incidence,1.4319007
+2017,South West,L1_Yellow_rust_Crop_Incidence,0.68879706
+2017,West Midlands,L1_Yellow_rust_Crop_Incidence,0.9217466
+2017,Yorkshire and The Humber,L1_Yellow_rust_Crop_Incidence,0.9769213
+2018,East,L1_Yellow_rust_Crop_Incidence,1.1159042
+2018,East Midlands,L1_Yellow_rust_Crop_Incidence,1.4511431
+2018,North East,L1_Yellow_rust_Crop_Incidence,0.85784245
+2018,North West,L1_Yellow_rust_Crop_Incidence,0.6068355
+2018,South East,L1_Yellow_rust_Crop_Incidence,1.1295042
+2018,South West,L1_Yellow_rust_Crop_Incidence,1.0519283
+2018,West Midlands,L1_Yellow_rust_Crop_Incidence,1.3669181
+2018,Yorkshire and The Humber,L1_Yellow_rust_Crop_Incidence,1.178416
+2019,East,L1_Yellow_rust_Crop_Incidence,1.6060891
+2019,East Midlands,L1_Yellow_rust_Crop_Incidence,2.2729225
+2019,North East,L1_Yellow_rust_Crop_Incidence,1.3941076
+2019,North West,L1_Yellow_rust_Crop_Incidence,1.1089537
+2019,South East,L1_Yellow_rust_Crop_Incidence,1.5077558
+2019,South West,L1_Yellow_rust_Crop_Incidence,1.8229649
+2019,West Midlands,L1_Yellow_rust_Crop_Incidence,1.93781
+2019,Yorkshire and The Humber,L1_Yellow_rust_Crop_Incidence,1.6308532
+2021,East,L1_Yellow_rust_Crop_Incidence,1.2598135
+2021,East Midlands,L1_Yellow_rust_Crop_Incidence,1.5018996
+2021,North East,L1_Yellow_rust_Crop_Incidence,0.8213221
+2021,North West,L1_Yellow_rust_Crop_Incidence,0.55421126
+2021,South East,L1_Yellow_rust_Crop_Incidence,1.2502761
+2021,South West,L1_Yellow_rust_Crop_Incidence,1.1564465
+2021,Wales,L1_Yellow_rust_Crop_Incidence,1.2110953
+2021,West Midlands,L1_Yellow_rust_Crop_Incidence,1.2143257
+2021,Yorkshire and The Humber,L1_Yellow_rust_Crop_Incidence,1.1376328
+2022,East,L1_Yellow_rust_Crop_Incidence,1.817244
+2022,East Midlands,L1_Yellow_rust_Crop_Incidence,2.3055446
+2022,North East,L1_Yellow_rust_Crop_Incidence,1.5346118
+2022,North West,L1_Yellow_rust_Crop_Incidence,1.0694473
+2022,South East,L1_Yellow_rust_Crop_Incidence,1.8666904
+2022,South West,L1_Yellow_rust_Crop_Incidence,1.7945348
+2022,Wales,L1_Yellow_rust_Crop_Incidence,1.8525057
+2022,West Midlands,L1_Yellow_rust_Crop_Incidence,1.7286825
+2022,Yorkshire and The Humber,L1_Yellow_rust_Crop_Incidence,1.7736557
+2023,East,L1_Yellow_rust_Crop_Incidence,2.6219888
+2023,East Midlands,L1_Yellow_rust_Crop_Incidence,2.6785681
+2023,North East,L1_Yellow_rust_Crop_Incidence,2.002306
+2023,North West,L1_Yellow_rust_Crop_Incidence,1.4815109
+2023,South East,L1_Yellow_rust_Crop_Incidence,2.3350701
+2023,South West,L1_Yellow_rust_Crop_Incidence,2.50637
+2023,Wales,L1_Yellow_rust_Crop_Incidence,2.0285647
+2023,West Midlands,L1_Yellow_rust_Crop_Incidence,2.5003343
+2023,Yorkshire and The Humber,L1_Yellow_rust_Crop_Incidence,2.4281864
+2024,East,L1_Yellow_rust_Crop_Incidence,5.054114
+2024,East Midlands,L1_Yellow_rust_Crop_Incidence,4.852346
+2024,North East,L1_Yellow_rust_Crop_Incidence,2.5913997
+2024,North West,L1_Yellow_rust_Crop_Incidence,2.107216
+2024,South East,L1_Yellow_rust_Crop_Incidence,3.109002
+2024,South West,L1_Yellow_rust_Crop_Incidence,2.967824
+2024,Wales,L1_Yellow_rust_Crop_Incidence,2.7546728
+2024,West Midlands,L1_Yellow_rust_Crop_Incidence,3.2155294
+2024,Yorkshire and The Humber,L1_Yellow_rust_Crop_Incidence,3.1960263
+2025,East,L1_Yellow_rust_Crop_Incidence,3.8772192
+2025,East Midlands,L1_Yellow_rust_Crop_Incidence,3.9215925
+2025,North East,L1_Yellow_rust_Crop_Incidence,2.3917854
+2025,North West,L1_Yellow_rust_Crop_Incidence,1.722695
+2025,South East,L1_Yellow_rust_Crop_Incidence,3.1633868
+2025,South West,L1_Yellow_rust_Crop_Incidence,3.2891426
+2025,Wales,L1_Yellow_rust_Crop_Incidence,2.617184
+2025,West Midlands,L1_Yellow_rust_Crop_Incidence,3.3599472
+2025,Yorkshire and The Humber,L1_Yellow_rust_Crop_Incidence,3.216584
+2005,East,L2_Zymoseptoria_tritici_Disease_Severity,2.737984
+2005,East Midlands,L2_Zymoseptoria_tritici_Disease_Severity,2.488882
+2005,North East,L2_Zymoseptoria_tritici_Disease_Severity,4.5437107
+2005,North West,L2_Zymoseptoria_tritici_Disease_Severity,10.83548
+2005,South East,L2_Zymoseptoria_tritici_Disease_Severity,5.0041885
+2005,South West,L2_Zymoseptoria_tritici_Disease_Severity,9.165515
+2005,West Midlands,L2_Zymoseptoria_tritici_Disease_Severity,6.072845
+2005,Yorkshire and The Humber,L2_Zymoseptoria_tritici_Disease_Severity,6.3293877
+2006,East,L2_Zymoseptoria_tritici_Disease_Severity,4.111891
+2006,East Midlands,L2_Zymoseptoria_tritici_Disease_Severity,3.6136825
+2006,North East,L2_Zymoseptoria_tritici_Disease_Severity,1.6407979
+2006,North West,L2_Zymoseptoria_tritici_Disease_Severity,6.0978994
+2006,South East,L2_Zymoseptoria_tritici_Disease_Severity,7.9459267
+2006,South West,L2_Zymoseptoria_tritici_Disease_Severity,7.8364177
+2006,West Midlands,L2_Zymoseptoria_tritici_Disease_Severity,8.157236
+2006,Yorkshire and The Humber,L2_Zymoseptoria_tritici_Disease_Severity,3.43429
+2007,East,L2_Zymoseptoria_tritici_Disease_Severity,5.15915
+2007,East Midlands,L2_Zymoseptoria_tritici_Disease_Severity,3.6633801
+2007,North East,L2_Zymoseptoria_tritici_Disease_Severity,2.2285995
+2007,North West,L2_Zymoseptoria_tritici_Disease_Severity,7.0320024
+2007,South East,L2_Zymoseptoria_tritici_Disease_Severity,8.742563
+2007,South West,L2_Zymoseptoria_tritici_Disease_Severity,10.384886
+2007,Wales,L2_Zymoseptoria_tritici_Disease_Severity,6.475459
+2007,West Midlands,L2_Zymoseptoria_tritici_Disease_Severity,8.870808
+2007,Yorkshire and The Humber,L2_Zymoseptoria_tritici_Disease_Severity,5.333988
+2008,East,L2_Zymoseptoria_tritici_Disease_Severity,1.0594671
+2008,East Midlands,L2_Zymoseptoria_tritici_Disease_Severity,1.8648362
+2008,North East,L2_Zymoseptoria_tritici_Disease_Severity,1.7344611
+2008,North West,L2_Zymoseptoria_tritici_Disease_Severity,3.5717263
+2008,South East,L2_Zymoseptoria_tritici_Disease_Severity,4.6558056
+2008,South West,L2_Zymoseptoria_tritici_Disease_Severity,7.241147
+2008,West Midlands,L2_Zymoseptoria_tritici_Disease_Severity,4.910843
+2008,Yorkshire and The Humber,L2_Zymoseptoria_tritici_Disease_Severity,4.0319004
+2009,East,L2_Zymoseptoria_tritici_Disease_Severity,1.348381
+2009,East Midlands,L2_Zymoseptoria_tritici_Disease_Severity,2.8359203
+2009,North East,L2_Zymoseptoria_tritici_Disease_Severity,2.0082622
+2009,North West,L2_Zymoseptoria_tritici_Disease_Severity,10.679516
+2009,South East,L2_Zymoseptoria_tritici_Disease_Severity,4.596366
+2009,South West,L2_Zymoseptoria_tritici_Disease_Severity,7.095771
+2009,West Midlands,L2_Zymoseptoria_tritici_Disease_Severity,6.376467
+2009,Yorkshire and The Humber,L2_Zymoseptoria_tritici_Disease_Severity,4.2790136
+2010,East,L2_Zymoseptoria_tritici_Disease_Severity,0.46675682
+2010,East Midlands,L2_Zymoseptoria_tritici_Disease_Severity,0.540216
+2010,North East,L2_Zymoseptoria_tritici_Disease_Severity,0.43305084
+2010,North West,L2_Zymoseptoria_tritici_Disease_Severity,1.1694839
+2010,South East,L2_Zymoseptoria_tritici_Disease_Severity,1.4393232
+2010,South West,L2_Zymoseptoria_tritici_Disease_Severity,1.8796978
+2010,Wales,L2_Zymoseptoria_tritici_Disease_Severity,1.8790742
+2010,West Midlands,L2_Zymoseptoria_tritici_Disease_Severity,1.3822352
+2010,Yorkshire and The Humber,L2_Zymoseptoria_tritici_Disease_Severity,0.8999187
+2011,East,L2_Zymoseptoria_tritici_Disease_Severity,0.5880215
+2011,East Midlands,L2_Zymoseptoria_tritici_Disease_Severity,1.0514922
+2011,North East,L2_Zymoseptoria_tritici_Disease_Severity,0.6789175
+2011,North West,L2_Zymoseptoria_tritici_Disease_Severity,4.5595226
+2011,South East,L2_Zymoseptoria_tritici_Disease_Severity,1.5407729
+2011,South West,L2_Zymoseptoria_tritici_Disease_Severity,3.8221772
+2011,West Midlands,L2_Zymoseptoria_tritici_Disease_Severity,1.973753
+2011,Yorkshire and The Humber,L2_Zymoseptoria_tritici_Disease_Severity,1.6621644
+2012,East,L2_Zymoseptoria_tritici_Disease_Severity,8.848465
+2012,East Midlands,L2_Zymoseptoria_tritici_Disease_Severity,8.33827
+2012,North East,L2_Zymoseptoria_tritici_Disease_Severity,11.010844
+2012,North West,L2_Zymoseptoria_tritici_Disease_Severity,10.253191
+2012,South East,L2_Zymoseptoria_tritici_Disease_Severity,12.374236
+2012,South West,L2_Zymoseptoria_tritici_Disease_Severity,14.250357
+2012,Wales,L2_Zymoseptoria_tritici_Disease_Severity,13.675904
+2012,West Midlands,L2_Zymoseptoria_tritici_Disease_Severity,13.049917
+2012,Yorkshire and The Humber,L2_Zymoseptoria_tritici_Disease_Severity,11.84342
+2013,East,L2_Zymoseptoria_tritici_Disease_Severity,1.449858
+2013,East Midlands,L2_Zymoseptoria_tritici_Disease_Severity,2.1635647
+2013,North East,L2_Zymoseptoria_tritici_Disease_Severity,1.465341
+2013,North West,L2_Zymoseptoria_tritici_Disease_Severity,5.4075146
+2013,South East,L2_Zymoseptoria_tritici_Disease_Severity,6.103685
+2013,South West,L2_Zymoseptoria_tritici_Disease_Severity,5.741583
+2013,West Midlands,L2_Zymoseptoria_tritici_Disease_Severity,4.3509474
+2013,Yorkshire and The Humber,L2_Zymoseptoria_tritici_Disease_Severity,3.4270606
+2014,East,L2_Zymoseptoria_tritici_Disease_Severity,4.9426622
+2014,East Midlands,L2_Zymoseptoria_tritici_Disease_Severity,7.083297
+2014,North East,L2_Zymoseptoria_tritici_Disease_Severity,7.1537433
+2014,North West,L2_Zymoseptoria_tritici_Disease_Severity,11.488522
+2014,South East,L2_Zymoseptoria_tritici_Disease_Severity,9.706568
+2014,South West,L2_Zymoseptoria_tritici_Disease_Severity,12.782833
+2014,West Midlands,L2_Zymoseptoria_tritici_Disease_Severity,11.322029
+2014,Yorkshire and The Humber,L2_Zymoseptoria_tritici_Disease_Severity,9.75462
+2015,East,L2_Zymoseptoria_tritici_Disease_Severity,1.4515946
+2015,East Midlands,L2_Zymoseptoria_tritici_Disease_Severity,1.2530968
+2015,North East,L2_Zymoseptoria_tritici_Disease_Severity,0.7626177
+2015,North West,L2_Zymoseptoria_tritici_Disease_Severity,2.945089
+2015,South East,L2_Zymoseptoria_tritici_Disease_Severity,2.9238293
+2015,South West,L2_Zymoseptoria_tritici_Disease_Severity,3.5311928
+2015,West Midlands,L2_Zymoseptoria_tritici_Disease_Severity,2.7834992
+2015,Yorkshire and The Humber,L2_Zymoseptoria_tritici_Disease_Severity,2.502294
+2016,East,L2_Zymoseptoria_tritici_Disease_Severity,5.2294326
+2016,East Midlands,L2_Zymoseptoria_tritici_Disease_Severity,4.121836
+2016,North East,L2_Zymoseptoria_tritici_Disease_Severity,1.9025851
+2016,North West,L2_Zymoseptoria_tritici_Disease_Severity,2.233945
+2016,South East,L2_Zymoseptoria_tritici_Disease_Severity,9.200268
+2016,South West,L2_Zymoseptoria_tritici_Disease_Severity,6.461896
+2016,West Midlands,L2_Zymoseptoria_tritici_Disease_Severity,6.4776077
+2016,Yorkshire and The Humber,L2_Zymoseptoria_tritici_Disease_Severity,3.5423455
+2017,East,L2_Zymoseptoria_tritici_Disease_Severity,1.472839
+2017,East Midlands,L2_Zymoseptoria_tritici_Disease_Severity,1.3846028
+2017,North East,L2_Zymoseptoria_tritici_Disease_Severity,0.91217816
+2017,North West,L2_Zymoseptoria_tritici_Disease_Severity,1.6799877
+2017,South East,L2_Zymoseptoria_tritici_Disease_Severity,3.2645783
+2017,South West,L2_Zymoseptoria_tritici_Disease_Severity,3.5443244
+2017,West Midlands,L2_Zymoseptoria_tritici_Disease_Severity,2.5033848
+2017,Yorkshire and The Humber,L2_Zymoseptoria_tritici_Disease_Severity,1.9506648
+2018,East,L2_Zymoseptoria_tritici_Disease_Severity,0.6244
+2018,East Midlands,L2_Zymoseptoria_tritici_Disease_Severity,0.6106887
+2018,North East,L2_Zymoseptoria_tritici_Disease_Severity,0.40930304
+2018,North West,L2_Zymoseptoria_tritici_Disease_Severity,0.97351956
+2018,South East,L2_Zymoseptoria_tritici_Disease_Severity,1.4716527
+2018,South West,L2_Zymoseptoria_tritici_Disease_Severity,2.0896497
+2018,West Midlands,L2_Zymoseptoria_tritici_Disease_Severity,1.2598575
+2018,Yorkshire and The Humber,L2_Zymoseptoria_tritici_Disease_Severity,0.7726692
+2019,East,L2_Zymoseptoria_tritici_Disease_Severity,2.5056612
+2019,East Midlands,L2_Zymoseptoria_tritici_Disease_Severity,2.6068468
+2019,North East,L2_Zymoseptoria_tritici_Disease_Severity,1.2410976
+2019,North West,L2_Zymoseptoria_tritici_Disease_Severity,2.763988
+2019,South East,L2_Zymoseptoria_tritici_Disease_Severity,4.1140203
+2019,South West,L2_Zymoseptoria_tritici_Disease_Severity,4.889327
+2019,West Midlands,L2_Zymoseptoria_tritici_Disease_Severity,4.4023495
+2019,Yorkshire and The Humber,L2_Zymoseptoria_tritici_Disease_Severity,3.346302
+2021,East,L2_Zymoseptoria_tritici_Disease_Severity,1.5475132
+2021,East Midlands,L2_Zymoseptoria_tritici_Disease_Severity,1.6491706
+2021,North East,L2_Zymoseptoria_tritici_Disease_Severity,0.9258348
+2021,North West,L2_Zymoseptoria_tritici_Disease_Severity,1.8408637
+2021,South East,L2_Zymoseptoria_tritici_Disease_Severity,3.1022146
+2021,South West,L2_Zymoseptoria_tritici_Disease_Severity,3.2705996
+2021,Wales,L2_Zymoseptoria_tritici_Disease_Severity,3.3185596
+2021,West Midlands,L2_Zymoseptoria_tritici_Disease_Severity,3.0550895
+2021,Yorkshire and The Humber,L2_Zymoseptoria_tritici_Disease_Severity,1.8991878
+2022,East,L2_Zymoseptoria_tritici_Disease_Severity,2.2890966
+2022,East Midlands,L2_Zymoseptoria_tritici_Disease_Severity,3.419177
+2022,North East,L2_Zymoseptoria_tritici_Disease_Severity,3.0432906
+2022,North West,L2_Zymoseptoria_tritici_Disease_Severity,11.149061
+2022,South East,L2_Zymoseptoria_tritici_Disease_Severity,5.6153307
+2022,South West,L2_Zymoseptoria_tritici_Disease_Severity,6.664711
+2022,Wales,L2_Zymoseptoria_tritici_Disease_Severity,9.306205
+2022,West Midlands,L2_Zymoseptoria_tritici_Disease_Severity,5.0861945
+2022,Yorkshire and The Humber,L2_Zymoseptoria_tritici_Disease_Severity,3.8554783
+2023,East,L2_Zymoseptoria_tritici_Disease_Severity,1.5757823
+2023,East Midlands,L2_Zymoseptoria_tritici_Disease_Severity,1.3784814
+2023,North East,L2_Zymoseptoria_tritici_Disease_Severity,1.0090652
+2023,North West,L2_Zymoseptoria_tritici_Disease_Severity,1.0402442
+2023,South East,L2_Zymoseptoria_tritici_Disease_Severity,2.90743
+2023,South West,L2_Zymoseptoria_tritici_Disease_Severity,2.375397
+2023,Wales,L2_Zymoseptoria_tritici_Disease_Severity,1.8860264
+2023,West Midlands,L2_Zymoseptoria_tritici_Disease_Severity,2.3081205
+2023,Yorkshire and The Humber,L2_Zymoseptoria_tritici_Disease_Severity,1.8477584
+2024,East,L2_Zymoseptoria_tritici_Disease_Severity,7.831188
+2024,East Midlands,L2_Zymoseptoria_tritici_Disease_Severity,11.423034
+2024,North East,L2_Zymoseptoria_tritici_Disease_Severity,17.041607
+2024,North West,L2_Zymoseptoria_tritici_Disease_Severity,19.539145
+2024,South East,L2_Zymoseptoria_tritici_Disease_Severity,12.468392
+2024,South West,L2_Zymoseptoria_tritici_Disease_Severity,14.822843
+2024,Wales,L2_Zymoseptoria_tritici_Disease_Severity,17.377876
+2024,West Midlands,L2_Zymoseptoria_tritici_Disease_Severity,14.970884
+2024,Yorkshire and The Humber,L2_Zymoseptoria_tritici_Disease_Severity,17.824894
+2025,East,L2_Zymoseptoria_tritici_Disease_Severity,0.49723095
+2025,East Midlands,L2_Zymoseptoria_tritici_Disease_Severity,0.46518677
+2025,North East,L2_Zymoseptoria_tritici_Disease_Severity,0.45043588
+2025,North West,L2_Zymoseptoria_tritici_Disease_Severity,1.1084654
+2025,South East,L2_Zymoseptoria_tritici_Disease_Severity,1.0671086
+2025,South West,L2_Zymoseptoria_tritici_Disease_Severity,1.5225796
+2025,Wales,L2_Zymoseptoria_tritici_Disease_Severity,1.425911
+2025,West Midlands,L2_Zymoseptoria_tritici_Disease_Severity,0.87656915
+2025,Yorkshire and The Humber,L2_Zymoseptoria_tritici_Disease_Severity,0.73527026
+2005,East,L2_Yellow_rust_Disease_Severity,0.0024493015
+2005,East Midlands,L2_Yellow_rust_Disease_Severity,0.0045522437
+2005,North East,L2_Yellow_rust_Disease_Severity,0.0053277854
+2005,North West,L2_Yellow_rust_Disease_Severity,0.0050773807
+2005,South East,L2_Yellow_rust_Disease_Severity,0.0019403332
+2005,South West,L2_Yellow_rust_Disease_Severity,0.0024592741
+2005,West Midlands,L2_Yellow_rust_Disease_Severity,0.004120225
+2005,Yorkshire and The Humber,L2_Yellow_rust_Disease_Severity,0.0048543606
+2006,East,L2_Yellow_rust_Disease_Severity,0.0033128965
+2006,East Midlands,L2_Yellow_rust_Disease_Severity,0.0043376265
+2006,North East,L2_Yellow_rust_Disease_Severity,0.0037047681
+2006,North West,L2_Yellow_rust_Disease_Severity,0.0057158954
+2006,South East,L2_Yellow_rust_Disease_Severity,0.0069596143
+2006,South West,L2_Yellow_rust_Disease_Severity,0.0062878407
+2006,West Midlands,L2_Yellow_rust_Disease_Severity,0.0064594583
+2006,Yorkshire and The Humber,L2_Yellow_rust_Disease_Severity,0.0037024843
+2007,East,L2_Yellow_rust_Disease_Severity,0.013955887
+2007,East Midlands,L2_Yellow_rust_Disease_Severity,0.016075764
+2007,North East,L2_Yellow_rust_Disease_Severity,0.01470549
+2007,North West,L2_Yellow_rust_Disease_Severity,0.010685187
+2007,South East,L2_Yellow_rust_Disease_Severity,0.015932266
+2007,South West,L2_Yellow_rust_Disease_Severity,0.016559573
+2007,Wales,L2_Yellow_rust_Disease_Severity,0.013055445
+2007,West Midlands,L2_Yellow_rust_Disease_Severity,0.015033802
+2007,Yorkshire and The Humber,L2_Yellow_rust_Disease_Severity,0.01590353
+2008,East,L2_Yellow_rust_Disease_Severity,0.011355713
+2008,East Midlands,L2_Yellow_rust_Disease_Severity,0.010951992
+2008,North East,L2_Yellow_rust_Disease_Severity,0.009575843
+2008,North West,L2_Yellow_rust_Disease_Severity,0.009928207
+2008,South East,L2_Yellow_rust_Disease_Severity,0.012339845
+2008,South West,L2_Yellow_rust_Disease_Severity,0.010788571
+2008,West Midlands,L2_Yellow_rust_Disease_Severity,0.01209669
+2008,Yorkshire and The Humber,L2_Yellow_rust_Disease_Severity,0.010839809
+2009,East,L2_Yellow_rust_Disease_Severity,0.0072854687
+2009,East Midlands,L2_Yellow_rust_Disease_Severity,0.006522034
+2009,North East,L2_Yellow_rust_Disease_Severity,0.0067161806
+2009,North West,L2_Yellow_rust_Disease_Severity,0.005168726
+2009,South East,L2_Yellow_rust_Disease_Severity,0.0068201264
+2009,South West,L2_Yellow_rust_Disease_Severity,0.0053860177
+2009,West Midlands,L2_Yellow_rust_Disease_Severity,0.007053383
+2009,Yorkshire and The Humber,L2_Yellow_rust_Disease_Severity,0.008358337
+2010,East,L2_Yellow_rust_Disease_Severity,0.003644648
+2010,East Midlands,L2_Yellow_rust_Disease_Severity,0.004100137
+2010,North East,L2_Yellow_rust_Disease_Severity,0.00401414
+2010,North West,L2_Yellow_rust_Disease_Severity,0.0046915305
+2010,South East,L2_Yellow_rust_Disease_Severity,0.00812671
+2010,South West,L2_Yellow_rust_Disease_Severity,0.0044111223
+2010,Wales,L2_Yellow_rust_Disease_Severity,0.00472218
+2010,West Midlands,L2_Yellow_rust_Disease_Severity,0.0042823246
+2010,Yorkshire and The Humber,L2_Yellow_rust_Disease_Severity,0.0044521242
+2011,East,L2_Yellow_rust_Disease_Severity,0.007180171
+2011,East Midlands,L2_Yellow_rust_Disease_Severity,0.0078066746
+2011,North East,L2_Yellow_rust_Disease_Severity,0.005326881
+2011,North West,L2_Yellow_rust_Disease_Severity,0.00449452
+2011,South East,L2_Yellow_rust_Disease_Severity,0.0070236544
+2011,South West,L2_Yellow_rust_Disease_Severity,0.00696949
+2011,West Midlands,L2_Yellow_rust_Disease_Severity,0.007702916
+2011,Yorkshire and The Humber,L2_Yellow_rust_Disease_Severity,0.006231735
+2012,East,L2_Yellow_rust_Disease_Severity,0.0052330545
+2012,East Midlands,L2_Yellow_rust_Disease_Severity,0.005213437
+2012,North East,L2_Yellow_rust_Disease_Severity,0.0049518
+2012,North West,L2_Yellow_rust_Disease_Severity,0.0046032243
+2012,South East,L2_Yellow_rust_Disease_Severity,0.0051771956
+2012,South West,L2_Yellow_rust_Disease_Severity,0.004923748
+2012,Wales,L2_Yellow_rust_Disease_Severity,0.0049512545
+2012,West Midlands,L2_Yellow_rust_Disease_Severity,0.005186273
+2012,Yorkshire and The Humber,L2_Yellow_rust_Disease_Severity,0.0051659867
+2013,East,L2_Yellow_rust_Disease_Severity,0.0075205592
+2013,East Midlands,L2_Yellow_rust_Disease_Severity,0.0059321006
+2013,North East,L2_Yellow_rust_Disease_Severity,0.0054168412
+2013,North West,L2_Yellow_rust_Disease_Severity,0.005533698
+2013,South East,L2_Yellow_rust_Disease_Severity,0.007960352
+2013,South West,L2_Yellow_rust_Disease_Severity,0.0056847297
+2013,West Midlands,L2_Yellow_rust_Disease_Severity,0.0063140187
+2013,Yorkshire and The Humber,L2_Yellow_rust_Disease_Severity,0.006558844
+2014,East,L2_Yellow_rust_Disease_Severity,0.006868079
+2014,East Midlands,L2_Yellow_rust_Disease_Severity,0.005519509
+2014,North East,L2_Yellow_rust_Disease_Severity,0.0058665266
+2014,North West,L2_Yellow_rust_Disease_Severity,0.005784404
+2014,South East,L2_Yellow_rust_Disease_Severity,0.006308034
+2014,South West,L2_Yellow_rust_Disease_Severity,0.005720644
+2014,West Midlands,L2_Yellow_rust_Disease_Severity,0.00598745
+2014,Yorkshire and The Humber,L2_Yellow_rust_Disease_Severity,0.0063990657
+2015,East,L2_Yellow_rust_Disease_Severity,0.0028980027
+2015,East Midlands,L2_Yellow_rust_Disease_Severity,0.002696023
+2015,North East,L2_Yellow_rust_Disease_Severity,0.0025483351
+2015,North West,L2_Yellow_rust_Disease_Severity,0.002836054
+2015,South East,L2_Yellow_rust_Disease_Severity,0.0028782636
+2015,South West,L2_Yellow_rust_Disease_Severity,0.0029036696
+2015,West Midlands,L2_Yellow_rust_Disease_Severity,0.0027154775
+2015,Yorkshire and The Humber,L2_Yellow_rust_Disease_Severity,0.002770002
+2016,East,L2_Yellow_rust_Disease_Severity,0.0036690307
+2016,East Midlands,L2_Yellow_rust_Disease_Severity,0.003698683
+2016,North East,L2_Yellow_rust_Disease_Severity,0.0029210444
+2016,North West,L2_Yellow_rust_Disease_Severity,0.0031544575
+2016,South East,L2_Yellow_rust_Disease_Severity,0.0036332305
+2016,South West,L2_Yellow_rust_Disease_Severity,0.0031113538
+2016,West Midlands,L2_Yellow_rust_Disease_Severity,0.0035743746
+2016,Yorkshire and The Humber,L2_Yellow_rust_Disease_Severity,0.0029792138
+2017,East,L2_Yellow_rust_Disease_Severity,0.0073355404
+2017,East Midlands,L2_Yellow_rust_Disease_Severity,0.0054001836
+2017,North East,L2_Yellow_rust_Disease_Severity,0.005476759
+2017,North West,L2_Yellow_rust_Disease_Severity,0.004988894
+2017,South East,L2_Yellow_rust_Disease_Severity,0.0071212733
+2017,South West,L2_Yellow_rust_Disease_Severity,0.005082013
+2017,West Midlands,L2_Yellow_rust_Disease_Severity,0.005697591
+2017,Yorkshire and The Humber,L2_Yellow_rust_Disease_Severity,0.005955498
+2018,East,L2_Yellow_rust_Disease_Severity,0.006058627
+2018,East Midlands,L2_Yellow_rust_Disease_Severity,0.0060775904
+2018,North East,L2_Yellow_rust_Disease_Severity,0.005306341
+2018,North West,L2_Yellow_rust_Disease_Severity,0.0048459023
+2018,South East,L2_Yellow_rust_Disease_Severity,0.0058190976
+2018,South West,L2_Yellow_rust_Disease_Severity,0.005444423
+2018,West Midlands,L2_Yellow_rust_Disease_Severity,0.0059161633
+2018,Yorkshire and The Humber,L2_Yellow_rust_Disease_Severity,0.005011486
+2019,East,L2_Yellow_rust_Disease_Severity,0.0053585796
+2019,East Midlands,L2_Yellow_rust_Disease_Severity,0.0051478175
+2019,North East,L2_Yellow_rust_Disease_Severity,0.0047339145
+2019,North West,L2_Yellow_rust_Disease_Severity,0.0048838397
+2019,South East,L2_Yellow_rust_Disease_Severity,0.0047891485
+2019,South West,L2_Yellow_rust_Disease_Severity,0.004883237
+2019,West Midlands,L2_Yellow_rust_Disease_Severity,0.004784826
+2019,Yorkshire and The Humber,L2_Yellow_rust_Disease_Severity,0.0045662452
+2021,East,L2_Yellow_rust_Disease_Severity,0.0061574224
+2021,East Midlands,L2_Yellow_rust_Disease_Severity,0.005941434
+2021,North East,L2_Yellow_rust_Disease_Severity,0.0057574008
+2021,North West,L2_Yellow_rust_Disease_Severity,0.0055640684
+2021,South East,L2_Yellow_rust_Disease_Severity,0.0059546516
+2021,South West,L2_Yellow_rust_Disease_Severity,0.0056007993
+2021,Wales,L2_Yellow_rust_Disease_Severity,0.005433704
+2021,West Midlands,L2_Yellow_rust_Disease_Severity,0.0059105665
+2021,Yorkshire and The Humber,L2_Yellow_rust_Disease_Severity,0.005889213
+2022,East,L2_Yellow_rust_Disease_Severity,0.005073457
+2022,East Midlands,L2_Yellow_rust_Disease_Severity,0.0054221647
+2022,North East,L2_Yellow_rust_Disease_Severity,0.0040115113
+2022,North West,L2_Yellow_rust_Disease_Severity,0.0050650435
+2022,South East,L2_Yellow_rust_Disease_Severity,0.005256106
+2022,South West,L2_Yellow_rust_Disease_Severity,0.00440727
+2022,Wales,L2_Yellow_rust_Disease_Severity,0.0053588264
+2022,West Midlands,L2_Yellow_rust_Disease_Severity,0.0054078554
+2022,Yorkshire and The Humber,L2_Yellow_rust_Disease_Severity,0.004362046
+2023,East,L2_Yellow_rust_Disease_Severity,0.020126086
+2023,East Midlands,L2_Yellow_rust_Disease_Severity,0.01893802
+2023,North East,L2_Yellow_rust_Disease_Severity,0.019012924
+2023,North West,L2_Yellow_rust_Disease_Severity,0.017589089
+2023,South East,L2_Yellow_rust_Disease_Severity,0.019049674
+2023,South West,L2_Yellow_rust_Disease_Severity,0.0189461
+2023,Wales,L2_Yellow_rust_Disease_Severity,0.017944029
+2023,West Midlands,L2_Yellow_rust_Disease_Severity,0.01892719
+2023,Yorkshire and The Humber,L2_Yellow_rust_Disease_Severity,0.019223167
+2024,East,L2_Yellow_rust_Disease_Severity,0.025296805
+2024,East Midlands,L2_Yellow_rust_Disease_Severity,0.022771772
+2024,North East,L2_Yellow_rust_Disease_Severity,0.022746945
+2024,North West,L2_Yellow_rust_Disease_Severity,0.022745606
+2024,South East,L2_Yellow_rust_Disease_Severity,0.024358295
+2024,South West,L2_Yellow_rust_Disease_Severity,0.023097271
+2024,Wales,L2_Yellow_rust_Disease_Severity,0.02299951
+2024,West Midlands,L2_Yellow_rust_Disease_Severity,0.02379196
+2024,Yorkshire and The Humber,L2_Yellow_rust_Disease_Severity,0.022690916
+2025,East,L2_Yellow_rust_Disease_Severity,0.02206029
+2025,East Midlands,L2_Yellow_rust_Disease_Severity,0.022056349
+2025,North East,L2_Yellow_rust_Disease_Severity,0.020564007
+2025,North West,L2_Yellow_rust_Disease_Severity,0.0208411
+2025,South East,L2_Yellow_rust_Disease_Severity,0.021137314
+2025,South West,L2_Yellow_rust_Disease_Severity,0.021492088
+2025,Wales,L2_Yellow_rust_Disease_Severity,0.021579918
+2025,West Midlands,L2_Yellow_rust_Disease_Severity,0.022043295
+2025,Yorkshire and The Humber,L2_Yellow_rust_Disease_Severity,0.020913802
+2005,East,L2_Zymoseptoria_tritici_Crop_Incidence,86.66832
+2005,East Midlands,L2_Zymoseptoria_tritici_Crop_Incidence,88.126816
+2005,North East,L2_Zymoseptoria_tritici_Crop_Incidence,88.45035
+2005,North West,L2_Zymoseptoria_tritici_Crop_Incidence,97.15921
+2005,South East,L2_Zymoseptoria_tritici_Crop_Incidence,89.82446
+2005,South West,L2_Zymoseptoria_tritici_Crop_Incidence,95.506775
+2005,West Midlands,L2_Zymoseptoria_tritici_Crop_Incidence,94.52241
+2005,Yorkshire and The Humber,L2_Zymoseptoria_tritici_Crop_Incidence,93.93788
+2006,East,L2_Zymoseptoria_tritici_Crop_Incidence,89.29845
+2006,East Midlands,L2_Zymoseptoria_tritici_Crop_Incidence,88.00884
+2006,North East,L2_Zymoseptoria_tritici_Crop_Incidence,73.586784
+2006,North West,L2_Zymoseptoria_tritici_Crop_Incidence,88.73511
+2006,South East,L2_Zymoseptoria_tritici_Crop_Incidence,92.39748
+2006,South West,L2_Zymoseptoria_tritici_Crop_Incidence,91.038536
+2006,West Midlands,L2_Zymoseptoria_tritici_Crop_Incidence,92.351135
+2006,Yorkshire and The Humber,L2_Zymoseptoria_tritici_Crop_Incidence,84.92945
+2007,East,L2_Zymoseptoria_tritici_Crop_Incidence,91.73791
+2007,East Midlands,L2_Zymoseptoria_tritici_Crop_Incidence,90.81951
+2007,North East,L2_Zymoseptoria_tritici_Crop_Incidence,80.25015
+2007,North West,L2_Zymoseptoria_tritici_Crop_Incidence,92.73331
+2007,South East,L2_Zymoseptoria_tritici_Crop_Incidence,93.09294
+2007,South West,L2_Zymoseptoria_tritici_Crop_Incidence,93.595375
+2007,Wales,L2_Zymoseptoria_tritici_Crop_Incidence,92.45333
+2007,West Midlands,L2_Zymoseptoria_tritici_Crop_Incidence,93.83348
+2007,Yorkshire and The Humber,L2_Zymoseptoria_tritici_Crop_Incidence,91.21509
+2008,East,L2_Zymoseptoria_tritici_Crop_Incidence,80.699745
+2008,East Midlands,L2_Zymoseptoria_tritici_Crop_Incidence,87.5661
+2008,North East,L2_Zymoseptoria_tritici_Crop_Incidence,75.71657
+2008,North West,L2_Zymoseptoria_tritici_Crop_Incidence,84.90463
+2008,South East,L2_Zymoseptoria_tritici_Crop_Incidence,92.18439
+2008,South West,L2_Zymoseptoria_tritici_Crop_Incidence,93.45059
+2008,West Midlands,L2_Zymoseptoria_tritici_Crop_Incidence,91.74871
+2008,Yorkshire and The Humber,L2_Zymoseptoria_tritici_Crop_Incidence,86.594025
+2009,East,L2_Zymoseptoria_tritici_Crop_Incidence,67.74527
+2009,East Midlands,L2_Zymoseptoria_tritici_Crop_Incidence,88.82393
+2009,North East,L2_Zymoseptoria_tritici_Crop_Incidence,76.29039
+2009,North West,L2_Zymoseptoria_tritici_Crop_Incidence,95.97487
+2009,South East,L2_Zymoseptoria_tritici_Crop_Incidence,82.199295
+2009,South West,L2_Zymoseptoria_tritici_Crop_Incidence,92.19957
+2009,West Midlands,L2_Zymoseptoria_tritici_Crop_Incidence,93.36101
+2009,Yorkshire and The Humber,L2_Zymoseptoria_tritici_Crop_Incidence,87.063416
+2010,East,L2_Zymoseptoria_tritici_Crop_Incidence,57.062187
+2010,East Midlands,L2_Zymoseptoria_tritici_Crop_Incidence,55.87817
+2010,North East,L2_Zymoseptoria_tritici_Crop_Incidence,48.025703
+2010,North West,L2_Zymoseptoria_tritici_Crop_Incidence,53.162113
+2010,South East,L2_Zymoseptoria_tritici_Crop_Incidence,60.483307
+2010,South West,L2_Zymoseptoria_tritici_Crop_Incidence,61.621906
+2010,Wales,L2_Zymoseptoria_tritici_Crop_Incidence,58.11561
+2010,West Midlands,L2_Zymoseptoria_tritici_Crop_Incidence,62.173973
+2010,Yorkshire and The Humber,L2_Zymoseptoria_tritici_Crop_Incidence,57.590775
+2011,East,L2_Zymoseptoria_tritici_Crop_Incidence,51.610664
+2011,East Midlands,L2_Zymoseptoria_tritici_Crop_Incidence,71.56586
+2011,North East,L2_Zymoseptoria_tritici_Crop_Incidence,70.57991
+2011,North West,L2_Zymoseptoria_tritici_Crop_Incidence,94.0717
+2011,South East,L2_Zymoseptoria_tritici_Crop_Incidence,70.46036
+2011,South West,L2_Zymoseptoria_tritici_Crop_Incidence,87.88634
+2011,West Midlands,L2_Zymoseptoria_tritici_Crop_Incidence,80.50371
+2011,Yorkshire and The Humber,L2_Zymoseptoria_tritici_Crop_Incidence,81.08597
+2012,East,L2_Zymoseptoria_tritici_Crop_Incidence,91.93801
+2012,East Midlands,L2_Zymoseptoria_tritici_Crop_Incidence,92.804146
+2012,North East,L2_Zymoseptoria_tritici_Crop_Incidence,94.442184
+2012,North West,L2_Zymoseptoria_tritici_Crop_Incidence,97.396866
+2012,South East,L2_Zymoseptoria_tritici_Crop_Incidence,97.07913
+2012,South West,L2_Zymoseptoria_tritici_Crop_Incidence,96.94983
+2012,Wales,L2_Zymoseptoria_tritici_Crop_Incidence,96.7063
+2012,West Midlands,L2_Zymoseptoria_tritici_Crop_Incidence,96.39315
+2012,Yorkshire and The Humber,L2_Zymoseptoria_tritici_Crop_Incidence,94.275826
+2013,East,L2_Zymoseptoria_tritici_Crop_Incidence,62.15188
+2013,East Midlands,L2_Zymoseptoria_tritici_Crop_Incidence,71.41589
+2013,North East,L2_Zymoseptoria_tritici_Crop_Incidence,72.521736
+2013,North West,L2_Zymoseptoria_tritici_Crop_Incidence,89.28581
+2013,South East,L2_Zymoseptoria_tritici_Crop_Incidence,86.09945
+2013,South West,L2_Zymoseptoria_tritici_Crop_Incidence,85.13116
+2013,West Midlands,L2_Zymoseptoria_tritici_Crop_Incidence,82.73309
+2013,Yorkshire and The Humber,L2_Zymoseptoria_tritici_Crop_Incidence,81.34111
+2014,East,L2_Zymoseptoria_tritici_Crop_Incidence,90.80304
+2014,East Midlands,L2_Zymoseptoria_tritici_Crop_Incidence,93.0372
+2014,North East,L2_Zymoseptoria_tritici_Crop_Incidence,94.70936
+2014,North West,L2_Zymoseptoria_tritici_Crop_Incidence,95.86819
+2014,South East,L2_Zymoseptoria_tritici_Crop_Incidence,95.20734
+2014,South West,L2_Zymoseptoria_tritici_Crop_Incidence,95.66993
+2014,West Midlands,L2_Zymoseptoria_tritici_Crop_Incidence,95.75807
+2014,Yorkshire and The Humber,L2_Zymoseptoria_tritici_Crop_Incidence,94.20537
+2015,East,L2_Zymoseptoria_tritici_Crop_Incidence,59.73242
+2015,East Midlands,L2_Zymoseptoria_tritici_Crop_Incidence,55.974865
+2015,North East,L2_Zymoseptoria_tritici_Crop_Incidence,62.791237
+2015,North West,L2_Zymoseptoria_tritici_Crop_Incidence,75.80531
+2015,South East,L2_Zymoseptoria_tritici_Crop_Incidence,67.574455
+2015,South West,L2_Zymoseptoria_tritici_Crop_Incidence,72.148674
+2015,West Midlands,L2_Zymoseptoria_tritici_Crop_Incidence,70.85674
+2015,Yorkshire and The Humber,L2_Zymoseptoria_tritici_Crop_Incidence,72.471504
+2016,East,L2_Zymoseptoria_tritici_Crop_Incidence,91.6884
+2016,East Midlands,L2_Zymoseptoria_tritici_Crop_Incidence,90.13409
+2016,North East,L2_Zymoseptoria_tritici_Crop_Incidence,84.666626
+2016,North West,L2_Zymoseptoria_tritici_Crop_Incidence,91.00325
+2016,South East,L2_Zymoseptoria_tritici_Crop_Incidence,94.93078
+2016,South West,L2_Zymoseptoria_tritici_Crop_Incidence,93.622894
+2016,West Midlands,L2_Zymoseptoria_tritici_Crop_Incidence,93.556015
+2016,Yorkshire and The Humber,L2_Zymoseptoria_tritici_Crop_Incidence,89.05594
+2017,East,L2_Zymoseptoria_tritici_Crop_Incidence,64.34277
+2017,East Midlands,L2_Zymoseptoria_tritici_Crop_Incidence,67.63066
+2017,North East,L2_Zymoseptoria_tritici_Crop_Incidence,63.79062
+2017,North West,L2_Zymoseptoria_tritici_Crop_Incidence,78.202194
+2017,South East,L2_Zymoseptoria_tritici_Crop_Incidence,79.881516
+2017,South West,L2_Zymoseptoria_tritici_Crop_Incidence,85.28438
+2017,West Midlands,L2_Zymoseptoria_tritici_Crop_Incidence,82.84338
+2017,Yorkshire and The Humber,L2_Zymoseptoria_tritici_Crop_Incidence,77.03764
+2018,East,L2_Zymoseptoria_tritici_Crop_Incidence,56.326614
+2018,East Midlands,L2_Zymoseptoria_tritici_Crop_Incidence,55.218193
+2018,North East,L2_Zymoseptoria_tritici_Crop_Incidence,53.541336
+2018,North West,L2_Zymoseptoria_tritici_Crop_Incidence,62.36075
+2018,South East,L2_Zymoseptoria_tritici_Crop_Incidence,68.72006
+2018,South West,L2_Zymoseptoria_tritici_Crop_Incidence,69.93893
+2018,West Midlands,L2_Zymoseptoria_tritici_Crop_Incidence,67.043686
+2018,Yorkshire and The Humber,L2_Zymoseptoria_tritici_Crop_Incidence,60.143486
+2019,East,L2_Zymoseptoria_tritici_Crop_Incidence,74.84222
+2019,East Midlands,L2_Zymoseptoria_tritici_Crop_Incidence,73.04067
+2019,North East,L2_Zymoseptoria_tritici_Crop_Incidence,64.80459
+2019,North West,L2_Zymoseptoria_tritici_Crop_Incidence,65.0484
+2019,South East,L2_Zymoseptoria_tritici_Crop_Incidence,84.11862
+2019,South West,L2_Zymoseptoria_tritici_Crop_Incidence,82.20633
+2019,West Midlands,L2_Zymoseptoria_tritici_Crop_Incidence,84.75864
+2019,Yorkshire and The Humber,L2_Zymoseptoria_tritici_Crop_Incidence,83.4714
+2021,East,L2_Zymoseptoria_tritici_Crop_Incidence,69.07309
+2021,East Midlands,L2_Zymoseptoria_tritici_Crop_Incidence,73.84228
+2021,North East,L2_Zymoseptoria_tritici_Crop_Incidence,60.85678
+2021,North West,L2_Zymoseptoria_tritici_Crop_Incidence,69.710846
+2021,South East,L2_Zymoseptoria_tritici_Crop_Incidence,82.6473
+2021,South West,L2_Zymoseptoria_tritici_Crop_Incidence,80.691536
+2021,Wales,L2_Zymoseptoria_tritici_Crop_Incidence,81.22866
+2021,West Midlands,L2_Zymoseptoria_tritici_Crop_Incidence,83.60889
+2021,Yorkshire and The Humber,L2_Zymoseptoria_tritici_Crop_Incidence,74.08614
+2022,East,L2_Zymoseptoria_tritici_Crop_Incidence,72.05969
+2022,East Midlands,L2_Zymoseptoria_tritici_Crop_Incidence,80.09886
+2022,North East,L2_Zymoseptoria_tritici_Crop_Incidence,70.88448
+2022,North West,L2_Zymoseptoria_tritici_Crop_Incidence,95.78784
+2022,South East,L2_Zymoseptoria_tritici_Crop_Incidence,90.279175
+2022,South West,L2_Zymoseptoria_tritici_Crop_Incidence,89.706375
+2022,Wales,L2_Zymoseptoria_tritici_Crop_Incidence,90.48036
+2022,West Midlands,L2_Zymoseptoria_tritici_Crop_Incidence,88.33159
+2022,Yorkshire and The Humber,L2_Zymoseptoria_tritici_Crop_Incidence,84.02663
+2023,East,L2_Zymoseptoria_tritici_Crop_Incidence,62.111626
+2023,East Midlands,L2_Zymoseptoria_tritici_Crop_Incidence,57.634785
+2023,North East,L2_Zymoseptoria_tritici_Crop_Incidence,49.04396
+2023,North West,L2_Zymoseptoria_tritici_Crop_Incidence,47.159256
+2023,South East,L2_Zymoseptoria_tritici_Crop_Incidence,71.02841
+2023,South West,L2_Zymoseptoria_tritici_Crop_Incidence,65.620575
+2023,Wales,L2_Zymoseptoria_tritici_Crop_Incidence,62.50531
+2023,West Midlands,L2_Zymoseptoria_tritici_Crop_Incidence,68.90553
+2023,Yorkshire and The Humber,L2_Zymoseptoria_tritici_Crop_Incidence,61.703346
+2024,East,L2_Zymoseptoria_tritici_Crop_Incidence,89.36484
+2024,East Midlands,L2_Zymoseptoria_tritici_Crop_Incidence,90.091446
+2024,North East,L2_Zymoseptoria_tritici_Crop_Incidence,90.03706
+2024,North West,L2_Zymoseptoria_tritici_Crop_Incidence,91.55478
+2024,South East,L2_Zymoseptoria_tritici_Crop_Incidence,92.31828
+2024,South West,L2_Zymoseptoria_tritici_Crop_Incidence,91.48425
+2024,Wales,L2_Zymoseptoria_tritici_Crop_Incidence,91.01853
+2024,West Midlands,L2_Zymoseptoria_tritici_Crop_Incidence,93.5574
+2024,Yorkshire and The Humber,L2_Zymoseptoria_tritici_Crop_Incidence,92.853
+2025,East,L2_Zymoseptoria_tritici_Crop_Incidence,58.132866
+2025,East Midlands,L2_Zymoseptoria_tritici_Crop_Incidence,58.600952
+2025,North East,L2_Zymoseptoria_tritici_Crop_Incidence,58.527573
+2025,North West,L2_Zymoseptoria_tritici_Crop_Incidence,72.6558
+2025,South East,L2_Zymoseptoria_tritici_Crop_Incidence,71.22327
+2025,South West,L2_Zymoseptoria_tritici_Crop_Incidence,78.41491
+2025,Wales,L2_Zymoseptoria_tritici_Crop_Incidence,79.78959
+2025,West Midlands,L2_Zymoseptoria_tritici_Crop_Incidence,72.19563
+2025,Yorkshire and The Humber,L2_Zymoseptoria_tritici_Crop_Incidence,66.92394
+2005,East,L2_Yellow_rust_Crop_Incidence,0.45369065
+2005,East Midlands,L2_Yellow_rust_Crop_Incidence,1.0232623
+2005,North East,L2_Yellow_rust_Crop_Incidence,0.7119304
+2005,North West,L2_Yellow_rust_Crop_Incidence,0.40749478
+2005,South East,L2_Yellow_rust_Crop_Incidence,0.19099934
+2005,South West,L2_Yellow_rust_Crop_Incidence,0.30549145
+2005,West Midlands,L2_Yellow_rust_Crop_Incidence,0.51426446
+2005,Yorkshire and The Humber,L2_Yellow_rust_Crop_Incidence,0.5934888
+2006,East,L2_Yellow_rust_Crop_Incidence,0.041054644
+2006,East Midlands,L2_Yellow_rust_Crop_Incidence,0.07929878
+2006,North East,L2_Yellow_rust_Crop_Incidence,0.03713582
+2006,North West,L2_Yellow_rust_Crop_Incidence,0.037771035
+2006,South East,L2_Yellow_rust_Crop_Incidence,0.023368023
+2006,South West,L2_Yellow_rust_Crop_Incidence,0.035746742
+2006,West Midlands,L2_Yellow_rust_Crop_Incidence,0.024102293
+2006,Yorkshire and The Humber,L2_Yellow_rust_Crop_Incidence,0.03869129
+2007,East,L2_Yellow_rust_Crop_Incidence,4.7948313
+2007,East Midlands,L2_Yellow_rust_Crop_Incidence,6.64327
+2007,North East,L2_Yellow_rust_Crop_Incidence,5.617089
+2007,North West,L2_Yellow_rust_Crop_Incidence,3.493215
+2007,South East,L2_Yellow_rust_Crop_Incidence,6.4898195
+2007,South West,L2_Yellow_rust_Crop_Incidence,7.14085
+2007,Wales,L2_Yellow_rust_Crop_Incidence,5.158012
+2007,West Midlands,L2_Yellow_rust_Crop_Incidence,6.2267113
+2007,Yorkshire and The Humber,L2_Yellow_rust_Crop_Incidence,5.5080366
+2008,East,L2_Yellow_rust_Crop_Incidence,1.2300456
+2008,East Midlands,L2_Yellow_rust_Crop_Incidence,1.1800067
+2008,North East,L2_Yellow_rust_Crop_Incidence,0.7292193
+2008,North West,L2_Yellow_rust_Crop_Incidence,0.5964735
+2008,South East,L2_Yellow_rust_Crop_Incidence,0.96253896
+2008,South West,L2_Yellow_rust_Crop_Incidence,0.93743765
+2008,West Midlands,L2_Yellow_rust_Crop_Incidence,0.9407805
+2008,Yorkshire and The Humber,L2_Yellow_rust_Crop_Incidence,0.8846203
+2009,East,L2_Yellow_rust_Crop_Incidence,1.6756827
+2009,East Midlands,L2_Yellow_rust_Crop_Incidence,1.5050111
+2009,North East,L2_Yellow_rust_Crop_Incidence,1.2574532
+2009,North West,L2_Yellow_rust_Crop_Incidence,0.9968459
+2009,South East,L2_Yellow_rust_Crop_Incidence,1.3024465
+2009,South West,L2_Yellow_rust_Crop_Incidence,1.175492
+2009,West Midlands,L2_Yellow_rust_Crop_Incidence,1.2796164
+2009,Yorkshire and The Humber,L2_Yellow_rust_Crop_Incidence,1.3287463
+2010,East,L2_Yellow_rust_Crop_Incidence,1.4307711
+2010,East Midlands,L2_Yellow_rust_Crop_Incidence,1.3212943
+2010,North East,L2_Yellow_rust_Crop_Incidence,0.9962151
+2010,North West,L2_Yellow_rust_Crop_Incidence,0.8886889
+2010,South East,L2_Yellow_rust_Crop_Incidence,1.2839701
+2010,South West,L2_Yellow_rust_Crop_Incidence,1.0882233
+2010,Wales,L2_Yellow_rust_Crop_Incidence,1.0872598
+2010,West Midlands,L2_Yellow_rust_Crop_Incidence,1.1999995
+2010,Yorkshire and The Humber,L2_Yellow_rust_Crop_Incidence,1.3098019
+2011,East,L2_Yellow_rust_Crop_Incidence,2.1195421
+2011,East Midlands,L2_Yellow_rust_Crop_Incidence,1.9499542
+2011,North East,L2_Yellow_rust_Crop_Incidence,1.3120153
+2011,North West,L2_Yellow_rust_Crop_Incidence,1.006607
+2011,South East,L2_Yellow_rust_Crop_Incidence,1.7315757
+2011,South West,L2_Yellow_rust_Crop_Incidence,1.6161617
+2011,West Midlands,L2_Yellow_rust_Crop_Incidence,1.683652
+2011,Yorkshire and The Humber,L2_Yellow_rust_Crop_Incidence,1.8318067
+2012,East,L2_Yellow_rust_Crop_Incidence,1.8082848
+2012,East Midlands,L2_Yellow_rust_Crop_Incidence,1.6354784
+2012,North East,L2_Yellow_rust_Crop_Incidence,0.84647864
+2012,North West,L2_Yellow_rust_Crop_Incidence,0.5098976
+2012,South East,L2_Yellow_rust_Crop_Incidence,1.2933903
+2012,South West,L2_Yellow_rust_Crop_Incidence,1.1549604
+2012,Wales,L2_Yellow_rust_Crop_Incidence,1.0659609
+2012,West Midlands,L2_Yellow_rust_Crop_Incidence,1.1985731
+2012,Yorkshire and The Humber,L2_Yellow_rust_Crop_Incidence,1.4613793
+2013,East,L2_Yellow_rust_Crop_Incidence,1.7150172
+2013,East Midlands,L2_Yellow_rust_Crop_Incidence,1.2829828
+2013,North East,L2_Yellow_rust_Crop_Incidence,0.6393913
+2013,North West,L2_Yellow_rust_Crop_Incidence,0.39527518
+2013,South East,L2_Yellow_rust_Crop_Incidence,1.2653003
+2013,South West,L2_Yellow_rust_Crop_Incidence,0.9925417
+2013,West Midlands,L2_Yellow_rust_Crop_Incidence,1.0634215
+2013,Yorkshire and The Humber,L2_Yellow_rust_Crop_Incidence,1.2701302
+2014,East,L2_Yellow_rust_Crop_Incidence,2.8471437
+2014,East Midlands,L2_Yellow_rust_Crop_Incidence,2.233481
+2014,North East,L2_Yellow_rust_Crop_Incidence,1.299089
+2014,North West,L2_Yellow_rust_Crop_Incidence,1.0210382
+2014,South East,L2_Yellow_rust_Crop_Incidence,1.7251531
+2014,South West,L2_Yellow_rust_Crop_Incidence,1.6212785
+2014,West Midlands,L2_Yellow_rust_Crop_Incidence,1.9507751
+2014,Yorkshire and The Humber,L2_Yellow_rust_Crop_Incidence,2.317729
+2015,East,L2_Yellow_rust_Crop_Incidence,1.3841406
+2015,East Midlands,L2_Yellow_rust_Crop_Incidence,1.2058825
+2015,North East,L2_Yellow_rust_Crop_Incidence,0.39249313
+2015,North West,L2_Yellow_rust_Crop_Incidence,0.21353775
+2015,South East,L2_Yellow_rust_Crop_Incidence,0.9320555
+2015,South West,L2_Yellow_rust_Crop_Incidence,0.7734778
+2015,West Midlands,L2_Yellow_rust_Crop_Incidence,0.743072
+2015,Yorkshire and The Humber,L2_Yellow_rust_Crop_Incidence,1.0863409
+2016,East,L2_Yellow_rust_Crop_Incidence,1.0770017
+2016,East Midlands,L2_Yellow_rust_Crop_Incidence,0.8430136
+2016,North East,L2_Yellow_rust_Crop_Incidence,0.29821578
+2016,North West,L2_Yellow_rust_Crop_Incidence,0.25017992
+2016,South East,L2_Yellow_rust_Crop_Incidence,0.61434203
+2016,South West,L2_Yellow_rust_Crop_Incidence,0.44235325
+2016,West Midlands,L2_Yellow_rust_Crop_Incidence,0.52503544
+2016,Yorkshire and The Humber,L2_Yellow_rust_Crop_Incidence,0.60529083
+2017,East,L2_Yellow_rust_Crop_Incidence,1.5327785
+2017,East Midlands,L2_Yellow_rust_Crop_Incidence,1.3401546
+2017,North East,L2_Yellow_rust_Crop_Incidence,0.8583849
+2017,North West,L2_Yellow_rust_Crop_Incidence,0.6258215
+2017,South East,L2_Yellow_rust_Crop_Incidence,1.3530309
+2017,South West,L2_Yellow_rust_Crop_Incidence,1.0738453
+2017,West Midlands,L2_Yellow_rust_Crop_Incidence,1.1208339
+2017,Yorkshire and The Humber,L2_Yellow_rust_Crop_Incidence,1.2911491
+2018,East,L2_Yellow_rust_Crop_Incidence,1.5900236
+2018,East Midlands,L2_Yellow_rust_Crop_Incidence,1.5357065
+2018,North East,L2_Yellow_rust_Crop_Incidence,0.68960744
+2018,North West,L2_Yellow_rust_Crop_Incidence,0.32183716
+2018,South East,L2_Yellow_rust_Crop_Incidence,1.2774968
+2018,South West,L2_Yellow_rust_Crop_Incidence,1.145624
+2018,West Midlands,L2_Yellow_rust_Crop_Incidence,1.1985621
+2018,Yorkshire and The Humber,L2_Yellow_rust_Crop_Incidence,1.4614989
+2019,East,L2_Yellow_rust_Crop_Incidence,1.7229391
+2019,East Midlands,L2_Yellow_rust_Crop_Incidence,1.7849888
+2019,North East,L2_Yellow_rust_Crop_Incidence,0.7277465
+2019,North West,L2_Yellow_rust_Crop_Incidence,0.4164799
+2019,South East,L2_Yellow_rust_Crop_Incidence,1.3459493
+2019,South West,L2_Yellow_rust_Crop_Incidence,1.3527782
+2019,West Midlands,L2_Yellow_rust_Crop_Incidence,1.3385642
+2019,Yorkshire and The Humber,L2_Yellow_rust_Crop_Incidence,1.4779712
+2021,East,L2_Yellow_rust_Crop_Incidence,1.4500651
+2021,East Midlands,L2_Yellow_rust_Crop_Incidence,1.6370428
+2021,North East,L2_Yellow_rust_Crop_Incidence,0.5877766
+2021,North West,L2_Yellow_rust_Crop_Incidence,0.227714
+2021,South East,L2_Yellow_rust_Crop_Incidence,1.3480263
+2021,South West,L2_Yellow_rust_Crop_Incidence,1.2261224
+2021,Wales,L2_Yellow_rust_Crop_Incidence,0.99978197
+2021,West Midlands,L2_Yellow_rust_Crop_Incidence,1.2934059
+2021,Yorkshire and The Humber,L2_Yellow_rust_Crop_Incidence,1.4298891
+2022,East,L2_Yellow_rust_Crop_Incidence,5.513151
+2022,East Midlands,L2_Yellow_rust_Crop_Incidence,6.257548
+2022,North East,L2_Yellow_rust_Crop_Incidence,4.850854
+2022,North West,L2_Yellow_rust_Crop_Incidence,4.494321
+2022,South East,L2_Yellow_rust_Crop_Incidence,5.3448725
+2022,South West,L2_Yellow_rust_Crop_Incidence,4.7185707
+2022,Wales,L2_Yellow_rust_Crop_Incidence,5.083481
+2022,West Midlands,L2_Yellow_rust_Crop_Incidence,5.2563267
+2022,Yorkshire and The Humber,L2_Yellow_rust_Crop_Incidence,4.8198724
+2023,East,L2_Yellow_rust_Crop_Incidence,5.7347035
+2023,East Midlands,L2_Yellow_rust_Crop_Incidence,4.7763395
+2023,North East,L2_Yellow_rust_Crop_Incidence,6.076315
+2023,North West,L2_Yellow_rust_Crop_Incidence,3.6555686
+2023,South East,L2_Yellow_rust_Crop_Incidence,5.0195794
+2023,South West,L2_Yellow_rust_Crop_Incidence,5.0037932
+2023,Wales,L2_Yellow_rust_Crop_Incidence,3.0594597
+2023,West Midlands,L2_Yellow_rust_Crop_Incidence,4.382884
+2023,Yorkshire and The Humber,L2_Yellow_rust_Crop_Incidence,6.059658
+2024,East,L2_Yellow_rust_Crop_Incidence,7.817017
+2024,East Midlands,L2_Yellow_rust_Crop_Incidence,7.311332
+2024,North East,L2_Yellow_rust_Crop_Incidence,5.6976604
+2024,North West,L2_Yellow_rust_Crop_Incidence,4.574073
+2024,South East,L2_Yellow_rust_Crop_Incidence,6.1785874
+2024,South West,L2_Yellow_rust_Crop_Incidence,5.770261
+2024,Wales,L2_Yellow_rust_Crop_Incidence,5.6778674
+2024,West Midlands,L2_Yellow_rust_Crop_Incidence,6.436202
+2024,Yorkshire and The Humber,L2_Yellow_rust_Crop_Incidence,6.462494
+2025,East,L2_Yellow_rust_Crop_Incidence,5.78526
+2025,East Midlands,L2_Yellow_rust_Crop_Incidence,6.456126
+2025,North East,L2_Yellow_rust_Crop_Incidence,4.824251
+2025,North West,L2_Yellow_rust_Crop_Incidence,5.3870616
+2025,South East,L2_Yellow_rust_Crop_Incidence,5.3969936
+2025,South West,L2_Yellow_rust_Crop_Incidence,6.04743
+2025,Wales,L2_Yellow_rust_Crop_Incidence,6.4447374
+2025,West Midlands,L2_Yellow_rust_Crop_Incidence,5.6852345
+2025,Yorkshire and The Humber,L2_Yellow_rust_Crop_Incidence,5.5437355

@@ -1,0 +1,169 @@
+Year,Region,target,value
+2005,East,L1_Zymoseptoria_tritici_Disease_Severity,0.727572
+2005,East Midlands,L1_Zymoseptoria_tritici_Disease_Severity,0.6935872
+2005,North East,L1_Zymoseptoria_tritici_Disease_Severity,1.1929154
+2005,North West,L1_Zymoseptoria_tritici_Disease_Severity,3.6014125
+2005,South East,L1_Zymoseptoria_tritici_Disease_Severity,1.4563107
+2005,South West,L1_Zymoseptoria_tritici_Disease_Severity,2.9231524
+2005,West Midlands,L1_Zymoseptoria_tritici_Disease_Severity,1.5322156
+2005,Yorkshire and The Humber,L1_Zymoseptoria_tritici_Disease_Severity,2.0208693
+2006,East,L1_Zymoseptoria_tritici_Disease_Severity,0.8886828
+2006,East Midlands,L1_Zymoseptoria_tritici_Disease_Severity,1.0424876
+2006,North East,L1_Zymoseptoria_tritici_Disease_Severity,0.40439612
+2006,North West,L1_Zymoseptoria_tritici_Disease_Severity,1.3543513
+2006,South East,L1_Zymoseptoria_tritici_Disease_Severity,1.6031957
+2006,South West,L1_Zymoseptoria_tritici_Disease_Severity,1.5246148
+2006,West Midlands,L1_Zymoseptoria_tritici_Disease_Severity,1.9300561
+2006,Yorkshire and The Humber,L1_Zymoseptoria_tritici_Disease_Severity,1.0130265
+2007,East,L1_Zymoseptoria_tritici_Disease_Severity,1.3086301
+2007,East Midlands,L1_Zymoseptoria_tritici_Disease_Severity,1.014307
+2007,North East,L1_Zymoseptoria_tritici_Disease_Severity,0.64320445
+2007,North West,L1_Zymoseptoria_tritici_Disease_Severity,1.9141346
+2007,South East,L1_Zymoseptoria_tritici_Disease_Severity,2.3394766
+2007,South West,L1_Zymoseptoria_tritici_Disease_Severity,2.8667207
+2007,Wales,L1_Zymoseptoria_tritici_Disease_Severity,2.507227
+2007,West Midlands,L1_Zymoseptoria_tritici_Disease_Severity,1.8450323
+2007,Yorkshire and The Humber,L1_Zymoseptoria_tritici_Disease_Severity,1.6405439
+2008,East,L1_Zymoseptoria_tritici_Disease_Severity,0.4470996
+2008,East Midlands,L1_Zymoseptoria_tritici_Disease_Severity,1.0098145
+2008,North East,L1_Zymoseptoria_tritici_Disease_Severity,0.9958806
+2008,North West,L1_Zymoseptoria_tritici_Disease_Severity,1.3662775
+2008,South East,L1_Zymoseptoria_tritici_Disease_Severity,1.5739553
+2008,South West,L1_Zymoseptoria_tritici_Disease_Severity,2.4774094
+2008,West Midlands,L1_Zymoseptoria_tritici_Disease_Severity,1.6560374
+2008,Yorkshire and The Humber,L1_Zymoseptoria_tritici_Disease_Severity,1.868419
+2009,East,L1_Zymoseptoria_tritici_Disease_Severity,0.4210456
+2009,East Midlands,L1_Zymoseptoria_tritici_Disease_Severity,0.8092428
+2009,North East,L1_Zymoseptoria_tritici_Disease_Severity,0.46441054
+2009,North West,L1_Zymoseptoria_tritici_Disease_Severity,2.3348937
+2009,South East,L1_Zymoseptoria_tritici_Disease_Severity,1.1854764
+2009,South West,L1_Zymoseptoria_tritici_Disease_Severity,1.4856517
+2009,West Midlands,L1_Zymoseptoria_tritici_Disease_Severity,1.4997256
+2009,Yorkshire and The Humber,L1_Zymoseptoria_tritici_Disease_Severity,1.095625
+2010,East,L1_Zymoseptoria_tritici_Disease_Severity,0.11906515
+2010,East Midlands,L1_Zymoseptoria_tritici_Disease_Severity,0.13353384
+2010,North East,L1_Zymoseptoria_tritici_Disease_Severity,0.09833594
+2010,North West,L1_Zymoseptoria_tritici_Disease_Severity,0.3802716
+2010,South East,L1_Zymoseptoria_tritici_Disease_Severity,0.32844043
+2010,South West,L1_Zymoseptoria_tritici_Disease_Severity,0.4035449
+2010,Wales,L1_Zymoseptoria_tritici_Disease_Severity,0.53097945
+2010,West Midlands,L1_Zymoseptoria_tritici_Disease_Severity,0.2720301
+2010,Yorkshire and The Humber,L1_Zymoseptoria_tritici_Disease_Severity,0.1842382
+2011,East,L1_Zymoseptoria_tritici_Disease_Severity,0.1816765
+2011,East Midlands,L1_Zymoseptoria_tritici_Disease_Severity,0.26006642
+2011,North East,L1_Zymoseptoria_tritici_Disease_Severity,0.20584455
+2011,North West,L1_Zymoseptoria_tritici_Disease_Severity,1.4291029
+2011,South East,L1_Zymoseptoria_tritici_Disease_Severity,0.5865756
+2011,South West,L1_Zymoseptoria_tritici_Disease_Severity,1.2956271
+2011,West Midlands,L1_Zymoseptoria_tritici_Disease_Severity,0.48076665
+2011,Yorkshire and The Humber,L1_Zymoseptoria_tritici_Disease_Severity,0.38412374
+2012,East,L1_Zymoseptoria_tritici_Disease_Severity,3.3971953
+2012,East Midlands,L1_Zymoseptoria_tritici_Disease_Severity,3.61347
+2012,North East,L1_Zymoseptoria_tritici_Disease_Severity,3.7692542
+2012,North West,L1_Zymoseptoria_tritici_Disease_Severity,4.0089517
+2012,South East,L1_Zymoseptoria_tritici_Disease_Severity,4.9855366
+2012,South West,L1_Zymoseptoria_tritici_Disease_Severity,5.4207315
+2012,Wales,L1_Zymoseptoria_tritici_Disease_Severity,5.1515956
+2012,West Midlands,L1_Zymoseptoria_tritici_Disease_Severity,4.7984657
+2012,Yorkshire and The Humber,L1_Zymoseptoria_tritici_Disease_Severity,4.379741
+2013,East,L1_Zymoseptoria_tritici_Disease_Severity,0.47515804
+2013,East Midlands,L1_Zymoseptoria_tritici_Disease_Severity,0.73909044
+2013,North East,L1_Zymoseptoria_tritici_Disease_Severity,0.32185394
+2013,North West,L1_Zymoseptoria_tritici_Disease_Severity,0.8351111
+2013,South East,L1_Zymoseptoria_tritici_Disease_Severity,1.6380454
+2013,South West,L1_Zymoseptoria_tritici_Disease_Severity,1.2749977
+2013,West Midlands,L1_Zymoseptoria_tritici_Disease_Severity,0.98258203
+2013,Yorkshire and The Humber,L1_Zymoseptoria_tritici_Disease_Severity,1.1165235
+2014,East,L1_Zymoseptoria_tritici_Disease_Severity,1.2562592
+2014,East Midlands,L1_Zymoseptoria_tritici_Disease_Severity,2.3595037
+2014,North East,L1_Zymoseptoria_tritici_Disease_Severity,1.4617413
+2014,North West,L1_Zymoseptoria_tritici_Disease_Severity,2.29773
+2014,South East,L1_Zymoseptoria_tritici_Disease_Severity,2.626616
+2014,South West,L1_Zymoseptoria_tritici_Disease_Severity,3.2044039
+2014,West Midlands,L1_Zymoseptoria_tritici_Disease_Severity,3.267281
+2014,Yorkshire and The Humber,L1_Zymoseptoria_tritici_Disease_Severity,3.1691446
+2015,East,L1_Zymoseptoria_tritici_Disease_Severity,0.54245317
+2015,East Midlands,L1_Zymoseptoria_tritici_Disease_Severity,0.29964805
+2015,North East,L1_Zymoseptoria_tritici_Disease_Severity,0.3109563
+2015,North West,L1_Zymoseptoria_tritici_Disease_Severity,0.6326299
+2015,South East,L1_Zymoseptoria_tritici_Disease_Severity,0.80159307
+2015,South West,L1_Zymoseptoria_tritici_Disease_Severity,0.7701319
+2015,West Midlands,L1_Zymoseptoria_tritici_Disease_Severity,0.5461831
+2015,Yorkshire and The Humber,L1_Zymoseptoria_tritici_Disease_Severity,0.54482
+2016,East,L1_Zymoseptoria_tritici_Disease_Severity,2.6045575
+2016,East Midlands,L1_Zymoseptoria_tritici_Disease_Severity,2.114883
+2016,North East,L1_Zymoseptoria_tritici_Disease_Severity,1.4207557
+2016,North West,L1_Zymoseptoria_tritici_Disease_Severity,1.1205069
+2016,South East,L1_Zymoseptoria_tritici_Disease_Severity,3.026452
+2016,South West,L1_Zymoseptoria_tritici_Disease_Severity,2.3165855
+2016,West Midlands,L1_Zymoseptoria_tritici_Disease_Severity,2.2606149
+2016,Yorkshire and The Humber,L1_Zymoseptoria_tritici_Disease_Severity,2.103258
+2017,East,L1_Zymoseptoria_tritici_Disease_Severity,1.1215358
+2017,East Midlands,L1_Zymoseptoria_tritici_Disease_Severity,0.9036326
+2017,North East,L1_Zymoseptoria_tritici_Disease_Severity,0.6634706
+2017,North West,L1_Zymoseptoria_tritici_Disease_Severity,1.0577593
+2017,South East,L1_Zymoseptoria_tritici_Disease_Severity,1.6650181
+2017,South West,L1_Zymoseptoria_tritici_Disease_Severity,1.861155
+2017,West Midlands,L1_Zymoseptoria_tritici_Disease_Severity,1.4738543
+2017,Yorkshire and The Humber,L1_Zymoseptoria_tritici_Disease_Severity,1.2801284
+2018,East,L1_Zymoseptoria_tritici_Disease_Severity,0.17939594
+2018,East Midlands,L1_Zymoseptoria_tritici_Disease_Severity,0.13897051
+2018,North East,L1_Zymoseptoria_tritici_Disease_Severity,0.07695097
+2018,North West,L1_Zymoseptoria_tritici_Disease_Severity,0.26679718
+2018,South East,L1_Zymoseptoria_tritici_Disease_Severity,0.43015358
+2018,South West,L1_Zymoseptoria_tritici_Disease_Severity,0.5913111
+2018,West Midlands,L1_Zymoseptoria_tritici_Disease_Severity,0.387385
+2018,Yorkshire and The Humber,L1_Zymoseptoria_tritici_Disease_Severity,0.27986228
+2019,East,L1_Zymoseptoria_tritici_Disease_Severity,0.8490265
+2019,East Midlands,L1_Zymoseptoria_tritici_Disease_Severity,1.0686797
+2019,North East,L1_Zymoseptoria_tritici_Disease_Severity,0.51288307
+2019,North West,L1_Zymoseptoria_tritici_Disease_Severity,0.9359362
+2019,South East,L1_Zymoseptoria_tritici_Disease_Severity,2.0901809
+2019,South West,L1_Zymoseptoria_tritici_Disease_Severity,2.1162777
+2019,West Midlands,L1_Zymoseptoria_tritici_Disease_Severity,1.8439237
+2019,Yorkshire and The Humber,L1_Zymoseptoria_tritici_Disease_Severity,1.3981719
+2021,East,L1_Zymoseptoria_tritici_Disease_Severity,0.22527748
+2021,East Midlands,L1_Zymoseptoria_tritici_Disease_Severity,0.1791028
+2021,North East,L1_Zymoseptoria_tritici_Disease_Severity,0.07627916
+2021,North West,L1_Zymoseptoria_tritici_Disease_Severity,0.2007634
+2021,South East,L1_Zymoseptoria_tritici_Disease_Severity,0.50571847
+2021,South West,L1_Zymoseptoria_tritici_Disease_Severity,0.3855026
+2021,Wales,L1_Zymoseptoria_tritici_Disease_Severity,0.3777448
+2021,West Midlands,L1_Zymoseptoria_tritici_Disease_Severity,0.49602395
+2021,Yorkshire and The Humber,L1_Zymoseptoria_tritici_Disease_Severity,0.36875707
+2022,East,L1_Zymoseptoria_tritici_Disease_Severity,1.7210228
+2022,East Midlands,L1_Zymoseptoria_tritici_Disease_Severity,2.4836202
+2022,North East,L1_Zymoseptoria_tritici_Disease_Severity,1.9731731
+2022,North West,L1_Zymoseptoria_tritici_Disease_Severity,4.2022457
+2022,South East,L1_Zymoseptoria_tritici_Disease_Severity,3.5049453
+2022,South West,L1_Zymoseptoria_tritici_Disease_Severity,3.9614112
+2022,Wales,L1_Zymoseptoria_tritici_Disease_Severity,4.1011686
+2022,West Midlands,L1_Zymoseptoria_tritici_Disease_Severity,3.2348344
+2022,Yorkshire and The Humber,L1_Zymoseptoria_tritici_Disease_Severity,2.666781
+2023,East,L1_Zymoseptoria_tritici_Disease_Severity,0.44842127
+2023,East Midlands,L1_Zymoseptoria_tritici_Disease_Severity,0.49266046
+2023,North East,L1_Zymoseptoria_tritici_Disease_Severity,0.4277746
+2023,North West,L1_Zymoseptoria_tritici_Disease_Severity,0.5494994
+2023,South East,L1_Zymoseptoria_tritici_Disease_Severity,0.77909505
+2023,South West,L1_Zymoseptoria_tritici_Disease_Severity,0.70173633
+2023,Wales,L1_Zymoseptoria_tritici_Disease_Severity,0.73177063
+2023,West Midlands,L1_Zymoseptoria_tritici_Disease_Severity,0.76199704
+2023,Yorkshire and The Humber,L1_Zymoseptoria_tritici_Disease_Severity,0.81915295
+2024,East,L1_Zymoseptoria_tritici_Disease_Severity,3.37126
+2024,East Midlands,L1_Zymoseptoria_tritici_Disease_Severity,4.88235
+2024,North East,L1_Zymoseptoria_tritici_Disease_Severity,6.232196
+2024,North West,L1_Zymoseptoria_tritici_Disease_Severity,7.026417
+2024,South East,L1_Zymoseptoria_tritici_Disease_Severity,4.814759
+2024,South West,L1_Zymoseptoria_tritici_Disease_Severity,5.3037972
+2024,Wales,L1_Zymoseptoria_tritici_Disease_Severity,6.267603
+2024,West Midlands,L1_Zymoseptoria_tritici_Disease_Severity,5.9105406
+2024,Yorkshire and The Humber,L1_Zymoseptoria_tritici_Disease_Severity,6.541223
+2025,East,L1_Zymoseptoria_tritici_Disease_Severity,0.44500017
+2025,East Midlands,L1_Zymoseptoria_tritici_Disease_Severity,0.35916525
+2025,North East,L1_Zymoseptoria_tritici_Disease_Severity,0.27062368
+2025,North West,L1_Zymoseptoria_tritici_Disease_Severity,0.85331666
+2025,South East,L1_Zymoseptoria_tritici_Disease_Severity,0.84062505
+2025,South West,L1_Zymoseptoria_tritici_Disease_Severity,1.0713658
+2025,Wales,L1_Zymoseptoria_tritici_Disease_Severity,1.0346446
+2025,West Midlands,L1_Zymoseptoria_tritici_Disease_Severity,0.6317839
+2025,Yorkshire and The Humber,L1_Zymoseptoria_tritici_Disease_Severity,0.6806772

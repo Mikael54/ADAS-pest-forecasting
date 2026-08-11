@@ -1,0 +1,169 @@
+Year,Region,target,value
+2005,East,L2_Zymoseptoria_tritici_Crop_Incidence,86.66832
+2005,East Midlands,L2_Zymoseptoria_tritici_Crop_Incidence,88.126816
+2005,North East,L2_Zymoseptoria_tritici_Crop_Incidence,88.45035
+2005,North West,L2_Zymoseptoria_tritici_Crop_Incidence,97.15921
+2005,South East,L2_Zymoseptoria_tritici_Crop_Incidence,89.82446
+2005,South West,L2_Zymoseptoria_tritici_Crop_Incidence,95.506775
+2005,West Midlands,L2_Zymoseptoria_tritici_Crop_Incidence,94.52241
+2005,Yorkshire and The Humber,L2_Zymoseptoria_tritici_Crop_Incidence,93.93788
+2006,East,L2_Zymoseptoria_tritici_Crop_Incidence,89.29845
+2006,East Midlands,L2_Zymoseptoria_tritici_Crop_Incidence,88.00884
+2006,North East,L2_Zymoseptoria_tritici_Crop_Incidence,73.586784
+2006,North West,L2_Zymoseptoria_tritici_Crop_Incidence,88.73511
+2006,South East,L2_Zymoseptoria_tritici_Crop_Incidence,92.39748
+2006,South West,L2_Zymoseptoria_tritici_Crop_Incidence,91.038536
+2006,West Midlands,L2_Zymoseptoria_tritici_Crop_Incidence,92.351135
+2006,Yorkshire and The Humber,L2_Zymoseptoria_tritici_Crop_Incidence,84.92945
+2007,East,L2_Zymoseptoria_tritici_Crop_Incidence,91.73791
+2007,East Midlands,L2_Zymoseptoria_tritici_Crop_Incidence,90.81951
+2007,North East,L2_Zymoseptoria_tritici_Crop_Incidence,80.25015
+2007,North West,L2_Zymoseptoria_tritici_Crop_Incidence,92.73331
+2007,South East,L2_Zymoseptoria_tritici_Crop_Incidence,93.09294
+2007,South West,L2_Zymoseptoria_tritici_Crop_Incidence,93.595375
+2007,Wales,L2_Zymoseptoria_tritici_Crop_Incidence,92.45333
+2007,West Midlands,L2_Zymoseptoria_tritici_Crop_Incidence,93.83348
+2007,Yorkshire and The Humber,L2_Zymoseptoria_tritici_Crop_Incidence,91.21509
+2008,East,L2_Zymoseptoria_tritici_Crop_Incidence,80.699745
+2008,East Midlands,L2_Zymoseptoria_tritici_Crop_Incidence,87.5661
+2008,North East,L2_Zymoseptoria_tritici_Crop_Incidence,75.71657
+2008,North West,L2_Zymoseptoria_tritici_Crop_Incidence,84.90463
+2008,South East,L2_Zymoseptoria_tritici_Crop_Incidence,92.18439
+2008,South West,L2_Zymoseptoria_tritici_Crop_Incidence,93.45059
+2008,West Midlands,L2_Zymoseptoria_tritici_Crop_Incidence,91.74871
+2008,Yorkshire and The Humber,L2_Zymoseptoria_tritici_Crop_Incidence,86.594025
+2009,East,L2_Zymoseptoria_tritici_Crop_Incidence,67.74527
+2009,East Midlands,L2_Zymoseptoria_tritici_Crop_Incidence,88.82393
+2009,North East,L2_Zymoseptoria_tritici_Crop_Incidence,76.29039
+2009,North West,L2_Zymoseptoria_tritici_Crop_Incidence,95.97487
+2009,South East,L2_Zymoseptoria_tritici_Crop_Incidence,82.199295
+2009,South West,L2_Zymoseptoria_tritici_Crop_Incidence,92.19957
+2009,West Midlands,L2_Zymoseptoria_tritici_Crop_Incidence,93.36101
+2009,Yorkshire and The Humber,L2_Zymoseptoria_tritici_Crop_Incidence,87.063416
+2010,East,L2_Zymoseptoria_tritici_Crop_Incidence,57.062187
+2010,East Midlands,L2_Zymoseptoria_tritici_Crop_Incidence,55.87817
+2010,North East,L2_Zymoseptoria_tritici_Crop_Incidence,48.025703
+2010,North West,L2_Zymoseptoria_tritici_Crop_Incidence,53.162113
+2010,South East,L2_Zymoseptoria_tritici_Crop_Incidence,60.483307
+2010,South West,L2_Zymoseptoria_tritici_Crop_Incidence,61.621906
+2010,Wales,L2_Zymoseptoria_tritici_Crop_Incidence,58.11561
+2010,West Midlands,L2_Zymoseptoria_tritici_Crop_Incidence,62.173973
+2010,Yorkshire and The Humber,L2_Zymoseptoria_tritici_Crop_Incidence,57.590775
+2011,East,L2_Zymoseptoria_tritici_Crop_Incidence,51.610664
+2011,East Midlands,L2_Zymoseptoria_tritici_Crop_Incidence,71.56586
+2011,North East,L2_Zymoseptoria_tritici_Crop_Incidence,70.57991
+2011,North West,L2_Zymoseptoria_tritici_Crop_Incidence,94.0717
+2011,South East,L2_Zymoseptoria_tritici_Crop_Incidence,70.46036
+2011,South West,L2_Zymoseptoria_tritici_Crop_Incidence,87.88634
+2011,West Midlands,L2_Zymoseptoria_tritici_Crop_Incidence,80.50371
+2011,Yorkshire and The Humber,L2_Zymoseptoria_tritici_Crop_Incidence,81.08597
+2012,East,L2_Zymoseptoria_tritici_Crop_Incidence,91.93801
+2012,East Midlands,L2_Zymoseptoria_tritici_Crop_Incidence,92.804146
+2012,North East,L2_Zymoseptoria_tritici_Crop_Incidence,94.442184
+2012,North West,L2_Zymoseptoria_tritici_Crop_Incidence,97.396866
+2012,South East,L2_Zymoseptoria_tritici_Crop_Incidence,97.07913
+2012,South West,L2_Zymoseptoria_tritici_Crop_Incidence,96.94983
+2012,Wales,L2_Zymoseptoria_tritici_Crop_Incidence,96.7063
+2012,West Midlands,L2_Zymoseptoria_tritici_Crop_Incidence,96.39315
+2012,Yorkshire and The Humber,L2_Zymoseptoria_tritici_Crop_Incidence,94.275826
+2013,East,L2_Zymoseptoria_tritici_Crop_Incidence,62.15188
+2013,East Midlands,L2_Zymoseptoria_tritici_Crop_Incidence,71.41589
+2013,North East,L2_Zymoseptoria_tritici_Crop_Incidence,72.521736
+2013,North West,L2_Zymoseptoria_tritici_Crop_Incidence,89.28581
+2013,South East,L2_Zymoseptoria_tritici_Crop_Incidence,86.09945
+2013,South West,L2_Zymoseptoria_tritici_Crop_Incidence,85.13116
+2013,West Midlands,L2_Zymoseptoria_tritici_Crop_Incidence,82.73309
+2013,Yorkshire and The Humber,L2_Zymoseptoria_tritici_Crop_Incidence,81.34111
+2014,East,L2_Zymoseptoria_tritici_Crop_Incidence,90.80304
+2014,East Midlands,L2_Zymoseptoria_tritici_Crop_Incidence,93.0372
+2014,North East,L2_Zymoseptoria_tritici_Crop_Incidence,94.70936
+2014,North West,L2_Zymoseptoria_tritici_Crop_Incidence,95.86819
+2014,South East,L2_Zymoseptoria_tritici_Crop_Incidence,95.20734
+2014,South West,L2_Zymoseptoria_tritici_Crop_Incidence,95.66993
+2014,West Midlands,L2_Zymoseptoria_tritici_Crop_Incidence,95.75807
+2014,Yorkshire and The Humber,L2_Zymoseptoria_tritici_Crop_Incidence,94.20537
+2015,East,L2_Zymoseptoria_tritici_Crop_Incidence,59.73242
+2015,East Midlands,L2_Zymoseptoria_tritici_Crop_Incidence,55.974865
+2015,North East,L2_Zymoseptoria_tritici_Crop_Incidence,62.791237
+2015,North West,L2_Zymoseptoria_tritici_Crop_Incidence,75.80531
+2015,South East,L2_Zymoseptoria_tritici_Crop_Incidence,67.574455
+2015,South West,L2_Zymoseptoria_tritici_Crop_Incidence,72.148674
+2015,West Midlands,L2_Zymoseptoria_tritici_Crop_Incidence,70.85674
+2015,Yorkshire and The Humber,L2_Zymoseptoria_tritici_Crop_Incidence,72.471504
+2016,East,L2_Zymoseptoria_tritici_Crop_Incidence,91.6884
+2016,East Midlands,L2_Zymoseptoria_tritici_Crop_Incidence,90.13409
+2016,North East,L2_Zymoseptoria_tritici_Crop_Incidence,84.666626
+2016,North West,L2_Zymoseptoria_tritici_Crop_Incidence,91.00325
+2016,South East,L2_Zymoseptoria_tritici_Crop_Incidence,94.93078
+2016,South West,L2_Zymoseptoria_tritici_Crop_Incidence,93.622894
+2016,West Midlands,L2_Zymoseptoria_tritici_Crop_Incidence,93.556015
+2016,Yorkshire and The Humber,L2_Zymoseptoria_tritici_Crop_Incidence,89.05594
+2017,East,L2_Zymoseptoria_tritici_Crop_Incidence,64.34277
+2017,East Midlands,L2_Zymoseptoria_tritici_Crop_Incidence,67.63066
+2017,North East,L2_Zymoseptoria_tritici_Crop_Incidence,63.79062
+2017,North West,L2_Zymoseptoria_tritici_Crop_Incidence,78.202194
+2017,South East,L2_Zymoseptoria_tritici_Crop_Incidence,79.881516
+2017,South West,L2_Zymoseptoria_tritici_Crop_Incidence,85.28438
+2017,West Midlands,L2_Zymoseptoria_tritici_Crop_Incidence,82.84338
+2017,Yorkshire and The Humber,L2_Zymoseptoria_tritici_Crop_Incidence,77.03764
+2018,East,L2_Zymoseptoria_tritici_Crop_Incidence,56.326614
+2018,East Midlands,L2_Zymoseptoria_tritici_Crop_Incidence,55.218193
+2018,North East,L2_Zymoseptoria_tritici_Crop_Incidence,53.541336
+2018,North West,L2_Zymoseptoria_tritici_Crop_Incidence,62.36075
+2018,South East,L2_Zymoseptoria_tritici_Crop_Incidence,68.72006
+2018,South West,L2_Zymoseptoria_tritici_Crop_Incidence,69.93893
+2018,West Midlands,L2_Zymoseptoria_tritici_Crop_Incidence,67.043686
+2018,Yorkshire and The Humber,L2_Zymoseptoria_tritici_Crop_Incidence,60.143486
+2019,East,L2_Zymoseptoria_tritici_Crop_Incidence,74.84222
+2019,East Midlands,L2_Zymoseptoria_tritici_Crop_Incidence,73.04067
+2019,North East,L2_Zymoseptoria_tritici_Crop_Incidence,64.80459
+2019,North West,L2_Zymoseptoria_tritici_Crop_Incidence,65.0484
+2019,South East,L2_Zymoseptoria_tritici_Crop_Incidence,84.11862
+2019,South West,L2_Zymoseptoria_tritici_Crop_Incidence,82.20633
+2019,West Midlands,L2_Zymoseptoria_tritici_Crop_Incidence,84.75864
+2019,Yorkshire and The Humber,L2_Zymoseptoria_tritici_Crop_Incidence,83.4714
+2021,East,L2_Zymoseptoria_tritici_Crop_Incidence,69.07309
+2021,East Midlands,L2_Zymoseptoria_tritici_Crop_Incidence,73.84228
+2021,North East,L2_Zymoseptoria_tritici_Crop_Incidence,60.85678
+2021,North West,L2_Zymoseptoria_tritici_Crop_Incidence,69.710846
+2021,South East,L2_Zymoseptoria_tritici_Crop_Incidence,82.6473
+2021,South West,L2_Zymoseptoria_tritici_Crop_Incidence,80.691536
+2021,Wales,L2_Zymoseptoria_tritici_Crop_Incidence,81.22866
+2021,West Midlands,L2_Zymoseptoria_tritici_Crop_Incidence,83.60889
+2021,Yorkshire and The Humber,L2_Zymoseptoria_tritici_Crop_Incidence,74.08614
+2022,East,L2_Zymoseptoria_tritici_Crop_Incidence,72.05969
+2022,East Midlands,L2_Zymoseptoria_tritici_Crop_Incidence,80.09886
+2022,North East,L2_Zymoseptoria_tritici_Crop_Incidence,70.88448
+2022,North West,L2_Zymoseptoria_tritici_Crop_Incidence,95.78784
+2022,South East,L2_Zymoseptoria_tritici_Crop_Incidence,90.279175
+2022,South West,L2_Zymoseptoria_tritici_Crop_Incidence,89.706375
+2022,Wales,L2_Zymoseptoria_tritici_Crop_Incidence,90.48036
+2022,West Midlands,L2_Zymoseptoria_tritici_Crop_Incidence,88.33159
+2022,Yorkshire and The Humber,L2_Zymoseptoria_tritici_Crop_Incidence,84.02663
+2023,East,L2_Zymoseptoria_tritici_Crop_Incidence,62.111626
+2023,East Midlands,L2_Zymoseptoria_tritici_Crop_Incidence,57.634785
+2023,North East,L2_Zymoseptoria_tritici_Crop_Incidence,49.04396
+2023,North West,L2_Zymoseptoria_tritici_Crop_Incidence,47.159256
+2023,South East,L2_Zymoseptoria_tritici_Crop_Incidence,71.02841
+2023,South West,L2_Zymoseptoria_tritici_Crop_Incidence,65.620575
+2023,Wales,L2_Zymoseptoria_tritici_Crop_Incidence,62.50531
+2023,West Midlands,L2_Zymoseptoria_tritici_Crop_Incidence,68.90553
+2023,Yorkshire and The Humber,L2_Zymoseptoria_tritici_Crop_Incidence,61.703346
+2024,East,L2_Zymoseptoria_tritici_Crop_Incidence,89.36484
+2024,East Midlands,L2_Zymoseptoria_tritici_Crop_Incidence,90.091446
+2024,North East,L2_Zymoseptoria_tritici_Crop_Incidence,90.03706
+2024,North West,L2_Zymoseptoria_tritici_Crop_Incidence,91.55478
+2024,South East,L2_Zymoseptoria_tritici_Crop_Incidence,92.31828
+2024,South West,L2_Zymoseptoria_tritici_Crop_Incidence,91.48425
+2024,Wales,L2_Zymoseptoria_tritici_Crop_Incidence,91.01853
+2024,West Midlands,L2_Zymoseptoria_tritici_Crop_Incidence,93.5574
+2024,Yorkshire and The Humber,L2_Zymoseptoria_tritici_Crop_Incidence,92.853
+2025,East,L2_Zymoseptoria_tritici_Crop_Incidence,58.132866
+2025,East Midlands,L2_Zymoseptoria_tritici_Crop_Incidence,58.600952
+2025,North East,L2_Zymoseptoria_tritici_Crop_Incidence,58.527573
+2025,North West,L2_Zymoseptoria_tritici_Crop_Incidence,72.6558
+2025,South East,L2_Zymoseptoria_tritici_Crop_Incidence,71.22327
+2025,South West,L2_Zymoseptoria_tritici_Crop_Incidence,78.41491
+2025,Wales,L2_Zymoseptoria_tritici_Crop_Incidence,79.78959
+2025,West Midlands,L2_Zymoseptoria_tritici_Crop_Incidence,72.19563
+2025,Yorkshire and The Humber,L2_Zymoseptoria_tritici_Crop_Incidence,66.92394

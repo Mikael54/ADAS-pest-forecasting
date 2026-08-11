@@ -1,0 +1,169 @@
+Year,Region,target,value
+2005,East,L1_Yellow_rust_Crop_Incidence,0.46747583
+2005,East Midlands,L1_Yellow_rust_Crop_Incidence,1.0139027
+2005,North East,L1_Yellow_rust_Crop_Incidence,0.7884526
+2005,North West,L1_Yellow_rust_Crop_Incidence,0.44241387
+2005,South East,L1_Yellow_rust_Crop_Incidence,0.2573413
+2005,South West,L1_Yellow_rust_Crop_Incidence,0.27938646
+2005,West Midlands,L1_Yellow_rust_Crop_Incidence,0.38335508
+2005,Yorkshire and The Humber,L1_Yellow_rust_Crop_Incidence,0.48803043
+2006,East,L1_Yellow_rust_Crop_Incidence,0.24738128
+2006,East Midlands,L1_Yellow_rust_Crop_Incidence,0.22275436
+2006,North East,L1_Yellow_rust_Crop_Incidence,0.12478182
+2006,North West,L1_Yellow_rust_Crop_Incidence,0.08487311
+2006,South East,L1_Yellow_rust_Crop_Incidence,0.13846263
+2006,South West,L1_Yellow_rust_Crop_Incidence,0.14205854
+2006,West Midlands,L1_Yellow_rust_Crop_Incidence,0.048576027
+2006,Yorkshire and The Humber,L1_Yellow_rust_Crop_Incidence,0.07329201
+2007,East,L1_Yellow_rust_Crop_Incidence,2.6083376
+2007,East Midlands,L1_Yellow_rust_Crop_Incidence,4.262143
+2007,North East,L1_Yellow_rust_Crop_Incidence,3.3387203
+2007,North West,L1_Yellow_rust_Crop_Incidence,1.7495649
+2007,South East,L1_Yellow_rust_Crop_Incidence,3.1332445
+2007,South West,L1_Yellow_rust_Crop_Incidence,2.9660134
+2007,Wales,L1_Yellow_rust_Crop_Incidence,2.987115
+2007,West Midlands,L1_Yellow_rust_Crop_Incidence,2.9470956
+2007,Yorkshire and The Humber,L1_Yellow_rust_Crop_Incidence,3.5125408
+2008,East,L1_Yellow_rust_Crop_Incidence,1.4839944
+2008,East Midlands,L1_Yellow_rust_Crop_Incidence,1.4950204
+2008,North East,L1_Yellow_rust_Crop_Incidence,0.81017315
+2008,North West,L1_Yellow_rust_Crop_Incidence,0.569245
+2008,South East,L1_Yellow_rust_Crop_Incidence,0.6816152
+2008,South West,L1_Yellow_rust_Crop_Incidence,0.7813972
+2008,West Midlands,L1_Yellow_rust_Crop_Incidence,0.77447104
+2008,Yorkshire and The Humber,L1_Yellow_rust_Crop_Incidence,0.7921822
+2009,East,L1_Yellow_rust_Crop_Incidence,1.2144545
+2009,East Midlands,L1_Yellow_rust_Crop_Incidence,1.3585151
+2009,North East,L1_Yellow_rust_Crop_Incidence,1.6304879
+2009,North West,L1_Yellow_rust_Crop_Incidence,0.9172312
+2009,South East,L1_Yellow_rust_Crop_Incidence,1.2785456
+2009,South West,L1_Yellow_rust_Crop_Incidence,0.99014497
+2009,West Midlands,L1_Yellow_rust_Crop_Incidence,1.1341232
+2009,Yorkshire and The Humber,L1_Yellow_rust_Crop_Incidence,1.3475583
+2010,East,L1_Yellow_rust_Crop_Incidence,0.6351171
+2010,East Midlands,L1_Yellow_rust_Crop_Incidence,0.82043415
+2010,North East,L1_Yellow_rust_Crop_Incidence,0.7242209
+2010,North West,L1_Yellow_rust_Crop_Incidence,0.64429086
+2010,South East,L1_Yellow_rust_Crop_Incidence,0.7609127
+2010,South West,L1_Yellow_rust_Crop_Incidence,0.79066277
+2010,Wales,L1_Yellow_rust_Crop_Incidence,0.8589679
+2010,West Midlands,L1_Yellow_rust_Crop_Incidence,0.77760005
+2010,Yorkshire and The Humber,L1_Yellow_rust_Crop_Incidence,0.85655665
+2011,East,L1_Yellow_rust_Crop_Incidence,1.0056925
+2011,East Midlands,L1_Yellow_rust_Crop_Incidence,1.6409712
+2011,North East,L1_Yellow_rust_Crop_Incidence,0.9475548
+2011,North West,L1_Yellow_rust_Crop_Incidence,0.51377344
+2011,South East,L1_Yellow_rust_Crop_Incidence,1.0666251
+2011,South West,L1_Yellow_rust_Crop_Incidence,1.2059476
+2011,West Midlands,L1_Yellow_rust_Crop_Incidence,1.2582957
+2011,Yorkshire and The Humber,L1_Yellow_rust_Crop_Incidence,1.2562072
+2012,East,L1_Yellow_rust_Crop_Incidence,2.3540816
+2012,East Midlands,L1_Yellow_rust_Crop_Incidence,2.50922
+2012,North East,L1_Yellow_rust_Crop_Incidence,2.0014324
+2012,North West,L1_Yellow_rust_Crop_Incidence,1.2088807
+2012,South East,L1_Yellow_rust_Crop_Incidence,1.7101387
+2012,South West,L1_Yellow_rust_Crop_Incidence,1.7463549
+2012,Wales,L1_Yellow_rust_Crop_Incidence,1.9903448
+2012,West Midlands,L1_Yellow_rust_Crop_Incidence,1.8744206
+2012,Yorkshire and The Humber,L1_Yellow_rust_Crop_Incidence,1.9579498
+2013,East,L1_Yellow_rust_Crop_Incidence,1.5092003
+2013,East Midlands,L1_Yellow_rust_Crop_Incidence,1.2813358
+2013,North East,L1_Yellow_rust_Crop_Incidence,0.6685627
+2013,North West,L1_Yellow_rust_Crop_Incidence,0.49880534
+2013,South East,L1_Yellow_rust_Crop_Incidence,0.914769
+2013,South West,L1_Yellow_rust_Crop_Incidence,0.80257976
+2013,West Midlands,L1_Yellow_rust_Crop_Incidence,0.82194793
+2013,Yorkshire and The Humber,L1_Yellow_rust_Crop_Incidence,0.75765085
+2014,East,L1_Yellow_rust_Crop_Incidence,4.5324707
+2014,East Midlands,L1_Yellow_rust_Crop_Incidence,4.169727
+2014,North East,L1_Yellow_rust_Crop_Incidence,2.9680724
+2014,North West,L1_Yellow_rust_Crop_Incidence,2.720284
+2014,South East,L1_Yellow_rust_Crop_Incidence,2.7681198
+2014,South West,L1_Yellow_rust_Crop_Incidence,2.9325666
+2014,West Midlands,L1_Yellow_rust_Crop_Incidence,3.6731899
+2014,Yorkshire and The Humber,L1_Yellow_rust_Crop_Incidence,3.5932515
+2015,East,L1_Yellow_rust_Crop_Incidence,0.9065833
+2015,East Midlands,L1_Yellow_rust_Crop_Incidence,1.1044214
+2015,North East,L1_Yellow_rust_Crop_Incidence,0.6647974
+2015,North West,L1_Yellow_rust_Crop_Incidence,0.24450764
+2015,South East,L1_Yellow_rust_Crop_Incidence,0.7553811
+2015,South West,L1_Yellow_rust_Crop_Incidence,0.8382981
+2015,West Midlands,L1_Yellow_rust_Crop_Incidence,0.831475
+2015,Yorkshire and The Humber,L1_Yellow_rust_Crop_Incidence,0.95350564
+2016,East,L1_Yellow_rust_Crop_Incidence,0.9690994
+2016,East Midlands,L1_Yellow_rust_Crop_Incidence,0.7865182
+2016,North East,L1_Yellow_rust_Crop_Incidence,0.34417778
+2016,North West,L1_Yellow_rust_Crop_Incidence,0.074431784
+2016,South East,L1_Yellow_rust_Crop_Incidence,0.66663074
+2016,South West,L1_Yellow_rust_Crop_Incidence,0.38578266
+2016,West Midlands,L1_Yellow_rust_Crop_Incidence,0.63233554
+2016,Yorkshire and The Humber,L1_Yellow_rust_Crop_Incidence,0.7199869
+2017,East,L1_Yellow_rust_Crop_Incidence,1.70084
+2017,East Midlands,L1_Yellow_rust_Crop_Incidence,1.1868389
+2017,North East,L1_Yellow_rust_Crop_Incidence,0.6737417
+2017,North West,L1_Yellow_rust_Crop_Incidence,0.24325186
+2017,South East,L1_Yellow_rust_Crop_Incidence,1.4319007
+2017,South West,L1_Yellow_rust_Crop_Incidence,0.68879706
+2017,West Midlands,L1_Yellow_rust_Crop_Incidence,0.9217466
+2017,Yorkshire and The Humber,L1_Yellow_rust_Crop_Incidence,0.9769213
+2018,East,L1_Yellow_rust_Crop_Incidence,1.1159042
+2018,East Midlands,L1_Yellow_rust_Crop_Incidence,1.4511431
+2018,North East,L1_Yellow_rust_Crop_Incidence,0.85784245
+2018,North West,L1_Yellow_rust_Crop_Incidence,0.6068355
+2018,South East,L1_Yellow_rust_Crop_Incidence,1.1295042
+2018,South West,L1_Yellow_rust_Crop_Incidence,1.0519283
+2018,West Midlands,L1_Yellow_rust_Crop_Incidence,1.3669181
+2018,Yorkshire and The Humber,L1_Yellow_rust_Crop_Incidence,1.178416
+2019,East,L1_Yellow_rust_Crop_Incidence,1.6060891
+2019,East Midlands,L1_Yellow_rust_Crop_Incidence,2.2729225
+2019,North East,L1_Yellow_rust_Crop_Incidence,1.3941076
+2019,North West,L1_Yellow_rust_Crop_Incidence,1.1089537
+2019,South East,L1_Yellow_rust_Crop_Incidence,1.5077558
+2019,South West,L1_Yellow_rust_Crop_Incidence,1.8229649
+2019,West Midlands,L1_Yellow_rust_Crop_Incidence,1.93781
+2019,Yorkshire and The Humber,L1_Yellow_rust_Crop_Incidence,1.6308532
+2021,East,L1_Yellow_rust_Crop_Incidence,1.2598135
+2021,East Midlands,L1_Yellow_rust_Crop_Incidence,1.5018996
+2021,North East,L1_Yellow_rust_Crop_Incidence,0.8213221
+2021,North West,L1_Yellow_rust_Crop_Incidence,0.55421126
+2021,South East,L1_Yellow_rust_Crop_Incidence,1.2502761
+2021,South West,L1_Yellow_rust_Crop_Incidence,1.1564465
+2021,Wales,L1_Yellow_rust_Crop_Incidence,1.2110953
+2021,West Midlands,L1_Yellow_rust_Crop_Incidence,1.2143257
+2021,Yorkshire and The Humber,L1_Yellow_rust_Crop_Incidence,1.1376328
+2022,East,L1_Yellow_rust_Crop_Incidence,1.817244
+2022,East Midlands,L1_Yellow_rust_Crop_Incidence,2.3055446
+2022,North East,L1_Yellow_rust_Crop_Incidence,1.5346118
+2022,North West,L1_Yellow_rust_Crop_Incidence,1.0694473
+2022,South East,L1_Yellow_rust_Crop_Incidence,1.8666904
+2022,South West,L1_Yellow_rust_Crop_Incidence,1.7945348
+2022,Wales,L1_Yellow_rust_Crop_Incidence,1.8525057
+2022,West Midlands,L1_Yellow_rust_Crop_Incidence,1.7286825
+2022,Yorkshire and The Humber,L1_Yellow_rust_Crop_Incidence,1.7736557
+2023,East,L1_Yellow_rust_Crop_Incidence,2.6219888
+2023,East Midlands,L1_Yellow_rust_Crop_Incidence,2.6785681
+2023,North East,L1_Yellow_rust_Crop_Incidence,2.002306
+2023,North West,L1_Yellow_rust_Crop_Incidence,1.4815109
+2023,South East,L1_Yellow_rust_Crop_Incidence,2.3350701
+2023,South West,L1_Yellow_rust_Crop_Incidence,2.50637
+2023,Wales,L1_Yellow_rust_Crop_Incidence,2.0285647
+2023,West Midlands,L1_Yellow_rust_Crop_Incidence,2.5003343
+2023,Yorkshire and The Humber,L1_Yellow_rust_Crop_Incidence,2.4281864
+2024,East,L1_Yellow_rust_Crop_Incidence,5.054114
+2024,East Midlands,L1_Yellow_rust_Crop_Incidence,4.852346
+2024,North East,L1_Yellow_rust_Crop_Incidence,2.5913997
+2024,North West,L1_Yellow_rust_Crop_Incidence,2.107216
+2024,South East,L1_Yellow_rust_Crop_Incidence,3.109002
+2024,South West,L1_Yellow_rust_Crop_Incidence,2.967824
+2024,Wales,L1_Yellow_rust_Crop_Incidence,2.7546728
+2024,West Midlands,L1_Yellow_rust_Crop_Incidence,3.2155294
+2024,Yorkshire and The Humber,L1_Yellow_rust_Crop_Incidence,3.1960263
+2025,East,L1_Yellow_rust_Crop_Incidence,3.8772192
+2025,East Midlands,L1_Yellow_rust_Crop_Incidence,3.9215925
+2025,North East,L1_Yellow_rust_Crop_Incidence,2.3917854
+2025,North West,L1_Yellow_rust_Crop_Incidence,1.722695
+2025,South East,L1_Yellow_rust_Crop_Incidence,3.1633868
+2025,South West,L1_Yellow_rust_Crop_Incidence,3.2891426
+2025,Wales,L1_Yellow_rust_Crop_Incidence,2.617184
+2025,West Midlands,L1_Yellow_rust_Crop_Incidence,3.3599472
+2025,Yorkshire and The Humber,L1_Yellow_rust_Crop_Incidence,3.216584
